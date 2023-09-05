@@ -1,0 +1,476 @@
+FileName_hintX|Original Japanese Sentence|Hint|English Translation
+BASIC5000_0073_hint1|さりげなく聡いこの子には、うかつな事はとても言えない。|さりげない＆聡い|I cannot tell this unintentional and smart child any thoughtless opinions.
+BASIC5000_0073_hint2|さりげなく聡いこの子には、うかつな事はとても言えない。|さりげない聡さ|I cannot tell this intentionally smart child any thoughtless opinions.
+BASIC5000_0076_hint1|被写体に気づかれないようにそぉっとカメラを取り出し、ファインダーを覗く。|気づかれないように取り出す|I take out my camera in a way that the subject does not notice, and I look through the viewfinder.
+BASIC5000_0076_hint2|被写体に気づかれないようにそぉっとカメラを取り出し、ファインダーを覗く。|気づかれないように覗く|I take my camera out and look through the viewfinder in a way that the subject does not notice.
+BASIC5000_0116_hint1|冬場に暖かい格好をしていないと、結局、ひどい風邪をひく羽目になる。|冬場の格好|If not wearing warm winter clothes, you will catch a bad cold.
+BASIC5000_0116_hint2|冬場に暖かい格好をしていないと、結局、ひどい風邪をひく羽目になる。|冬場に暖かい|If not wearing warm clothes in winter, you will catch a bad cold.
+BASIC5000_0119_hint1|手帳にお名前を書いていただけませんか。|書いていただく(補助動詞)|Could you write down your name on the handbook?
+BASIC5000_0119_hint2|手帳にお名前を書いていただけませんか。|手帳をいただく(本動詞)|Could you write down your name on the handbook and give it to me?
+BASIC5000_0120_hint1|校長は、卒業生一人一人と握手をした。|校長は卒業生|The president, who was a graduate student, shook hands with each person.
+BASIC5000_0120_hint2|校長は、卒業生一人一人と握手をした。|校長は握手をした|The president shook hands with each graduate student.
+BASIC5000_0121_hint1|山田君は、自分のボスに対する怒りを、抑えようと努めた。|自分のボス|Yamada tried to control the anger with his boss.
+BASIC5000_0121_hint2|山田君は、自分のボスに対する怒りを、抑えようと努めた。|自分の怒り|Yamada tried to control his anger with the boss.
+BASIC5000_0141_hint1|雷が、今にも落ちそうな激しい音で、ごろごろと鳴った。|雷が鳴った|It was thundering as if lightning was about to strike.
+BASIC5000_0141_hint2|雷が、今にも落ちそうな激しい音で、ごろごろと鳴った。|雷が落ちそう|With lighting about to strike, it was thundering.
+BASIC5000_0163_hint1|悪い道路をガクンガクンと走って行く自動車。|走って行く|The car is jumping up and down on the bumpy road.
+BASIC5000_0163_hint2|悪い道路をガクンガクンと走って行く自動車。|走る＆行く|The car jumped up and down on the bumpy road and has gone.
+BASIC5000_0372_hint1|ベティがパーティーに来た最初の女の子だった。|ベティが最初の女の子|Betty was the first girl who came to the party.
+BASIC5000_0372_hint2|ベティがパーティーに来た最初の女の子だった。|ベティがパーティーに来た|The first girl was Betty who came to the party.
+BASIC5000_0406_hint1|出で立ちが、何となく貴族っぽいような気がする。|何となく貴族っぽい|I feel that the appearance somehow looks like an aristocrat.
+BASIC5000_0406_hint2|出で立ちが、何となく貴族っぽいような気がする。|何となく気がする|Somehow, I feel that the appearance looks like an aristocrat.
+BASIC5000_0415_hint1|柔らかいウールの方が、粗いウールより高価で、その、どちらともナイロン製の人工繊維より、上等である。|どちらともナイロン製|Soft wool is more expensive than rough wool, and both are more expensive man-made nylon fibers.
+BASIC5000_0415_hint2|柔らかいウールの方が、粗いウールより高価で、その、どちらともナイロン製の人工繊維より、上等である。|どちらとも上等|Soft wool is more expensive than rough wool, and both are more expensive than man-made nylon fibers.
+BASIC5000_0448_hint1|軟木の絶縁された部屋、およびよいヒーターは、サウナのための絶対必要である。|軟木が絶縁された|A room where soft wood is insulated and a good heater are indispensable for a sauna.
+BASIC5000_0448_hint2|軟木の絶縁された部屋、およびよいヒーターは、サウナのための絶対必要である。|軟木の部屋|A soft wooden insulated room and a good heater are indispensable for a sauna.
+BASIC5000_0482_hint1|アフリカの飢えに苦しむ子供たちの事を思うと、胸がいたむ。|アフリカの飢え|Thinking about children suffering from hunger in Africa makes me sad.
+BASIC5000_0482_hint2|アフリカの飢えに苦しむ子供たちの事を思うと、胸がいたむ。|アフリカの子供たち|Thinking about children in Africa suffering from hunger makes me sad.
+BASIC5000_0501_hint1|アヤが完璧なドイツ語を話すのは、少しも不思議でない。|アヤが完璧|I would not be surprised if Aya is perfect and speaks German.
+BASIC5000_0501_hint2|アヤが完璧なドイツ語を話すのは、少しも不思議でない。|アヤが話す|I would not be surprised if Aya speaks German perfectly.
+BASIC5000_0545_hint1|がばっと気合を入れて、身を起こした。|がばっと気合を入れた|I suddenly fired myself up and woke up.
+BASIC5000_0545_hint2|がばっと気合を入れて、身を起こした。|がばっと身を起こした|By firing myself up, I suddenly woke up.
+BASIC5000_0546_hint1|がまんするのが難しいのは、彼の度を超した丁重さである。|彼の度|It is hard for me to put up with his degree of politeness, which exceeds the normal level of politeness.
+BASIC5000_0546_hint2|がまんするのが難しいのは、彼の度を超した丁重さである。|彼の丁重さ|It is hard for me to put up with his extraordinary politeness.
+BASIC5000_0658_hint1|国民総生産は、一国の財と、サービスを貨幣価値で測った、総生産高である。|財とサービス|Gross National Product means the gross production that currency value is measured by the wealth and services of a nation.
+BASIC5000_0658_hint2|国民総生産は、一国の財と、サービスを貨幣価値で測った、総生産高である。|財と総生産高|Gross National Product means the wealth of a nation and gross production that service is measured by currency value.
+BASIC5000_0704_hint1|お互いにあらさがしをするのはやめましょうよ。|お互いにあら探しする|We should stop picking on each other.
+BASIC5000_0704_hint2|お互いにあらさがしをするのはやめましょうよ。|お互いにやめる|We should stop picking on anymore.
+BASIC5000_0997_hint1|堅実な草の根レベルの運動を築きあげることに集中しなければならない。|堅実な草の根|We should concentrate on creating activities at a reliable grass root level.
+BASIC5000_0997_hint2|堅実な草の根レベルの運動を築きあげることに集中しなければならない。|堅実な運動|We should concentrate on creating reliable activities at the grass root level.
+BASIC5000_1031_hint1|引用した問題ではありませんが、関係代名詞と、関係副詞の使い分けを問う問題が、リーディングセクションにはあります。|関係代名詞vs関係副詞|It is not a reference question, but we have a question about how to use relative pronouns and relative adverbs in the reading section.
+BASIC5000_1031_hint2|引用した問題ではありませんが、関係代名詞と、関係副詞の使い分けを問う問題が、リーディングセクションにはあります。|[関係代名詞] & [関係副詞の問題]|It is not a reference question, but we have relative pronouns and a question about how to use relative adverbs in the reading section.
+BASIC5000_1080_hint1|動詞には目的をとらない自動詞と、目的語をとる他動詞があります。|自動詞は一般的に目的語をとらない|Verbs have intransitive verbs without an object and transitive verbs with an object.
+BASIC5000_1080_hint2|動詞には目的をとらない自動詞と、目的語をとる他動詞があります。|自動詞の中でも目的語をとらないもの|Verbs have some intransitive verbs that do not need an object and transitive verbs with an object.
+BASIC5000_1138_hint1|見なくちゃ行けない動物が、たくさんいるよ。|見なければならない|There are many animals that you should go to see.
+BASIC5000_1138_hint2|見なくちゃ行けない動物が、たくさんいるよ。|見たあとで行く|There are many animals that you should go after seeing.
+BASIC5000_1185_hint1|完全な宗教の自由が、万人に保証されている。|完全な宗教|The freedom of perfect religions is ensured to all people.
+BASIC5000_1185_hint2|完全な宗教の自由が、万人に保証されている。|完全な自由|Complete freedom of religions is ensured to all people.
+BASIC5000_1336_hint1|効率的な機械が、肉体労働に取って代わった。|機械の中でも効率的なもの|Physical labor has been replaced with some efficient machines.
+BASIC5000_1336_hint2|効率的な機械が、肉体労働に取って代わった。|機械は一般的に効率的|Physical labor has been replaced with efficient machines.
+BASIC5000_1375_hint1|司令官は、部下に向かって直ちに発砲するよう命令を発した。|部下に向かって発砲する|The commander ordered me to fire a gun at his subordinates immediately.
+BASIC5000_1375_hint2|司令官は、部下に向かって直ちに発砲するよう命令を発した。|部下に向かって命令した|The commander ordered his subordinates to fire their guns immediately.
+BASIC5000_1596_hint1|超大国が激しい国境紛争を解決するために、本格的に交渉した。|超大国が激しい|In order to solve border disputes between strong super major powers, we negotiated with them on a full scale.
+BASIC5000_1596_hint2|超大国が激しい国境紛争を解決するために、本格的に交渉した。|超大国が解決する|In order for super major powers to solve serious border disputes, we negotiated on a full scale.
+BASIC5000_2190_hint1|ダブルのバスつきの部屋がいいです。|ダブルのバス|I want a room with double bathrooms.
+BASIC5000_2190_hint2|ダブルのバスつきの部屋がいいです。|ダブルの部屋|I want a double bedroom with a bathroom.
+BASIC5000_2197_hint1|浪費する人を守るために倹約する人に税金をかけるのは、賢明なことではないし、結局は、ためにならないのである。|浪費する人のために倹約する|It is not a sensible decision to impose a tax on people saving money for spendthrifts; as a result, that decision became useless.
+BASIC5000_2197_hint2|浪費する人を守るために倹約する人に税金をかけるのは、賢明なことではないし、結局は、ためにならないのである。|浪費する人のために税金をかける|It is not a sensible decision to impose a tax on people saving money to protect spendthrifts; as a result, the decision became useless.
+BASIC5000_2367_hint1|エムサイズの黄色い長袖のシャツが欲しいんだけど。|黄色い長袖(袖だけ)|I want to buy a medium-size shirt with yellow long sleeves.
+BASIC5000_2367_hint2|エムサイズの黄色い長袖のシャツが欲しいんだけど。|黄色いシャツ|I want to buy a medium-size yellow shirt with long sleeves.
+BASIC5000_2383_hint1|エミリー以上にすばらしいアップルパイを焼く人はいない。|すばらしいアップルパイ|There is no one who can bake a wonderful apple pie better than Emily.
+BASIC5000_2383_hint2|エミリー以上にすばらしいアップルパイを焼く人はいない。|すばらしい人|There is no wonderful person like Emily who can bake an apple pie.
+BASIC5000_2411_hint1|けれども、ポーラ・グレイソンのような管理職の人々は、なんとかその習慣を変えてもらおうと、説得に努めています。|ポーラ・グレイソンのような管理職|However, managers like Pola Grayson are trying to persuade them to change their habits.
+BASIC5000_2411_hint2|けれども、ポーラ・グレイソンのような管理職の人々は、なんとかその習慣を変えてもらおうと、説得に努めています。|ポーラ・グレイソンのような人々|However, people like Pola Grayson, who is a manager, are trying to persuade them to change their habits.
+BASIC5000_2419_hint1|腰の痛みから足が鉛のように重く引きずるように歩いていました。|重く引きずるように|Due to back pain, I was dragging my feet heavily, which looked like they were as heavily as lead.
+BASIC5000_2419_hint2|腰の痛みから足が鉛のように重く引きずるように歩いていました。|重いので引きずった|Having back pain, I was dragging my feet because they were heavy as lead.
+BASIC5000_2437_hint1|高度に専門的な話題で、多分に誤った情報が含まれる可能性があることはあらかじめお断りしておきます。|多分に誤った|Please understand that advanced and professional topics may include quite wrong information.
+BASIC5000_2437_hint2|高度に専門的な話題で、多分に誤った情報が含まれる可能性があることはあらかじめお断りしておきます。|多分に含まれる|Please understand that advanced and professional topics may include a lot of wrong information.
+BASIC5000_2444_hint1|長期間の練習が彼が流暢な英語を話すことを可能にした。|彼が流暢な|By practicing for a long time, he can be a fluent person and speak English.
+BASIC5000_2444_hint2|長期間の練習が彼が流暢な英語を話すことを可能にした。|彼が話す|By practicing for a long time, he can speak English fluently.
+BASIC5000_2452_hint1|葉の植物に対する関係は肺の動物に対する関係と同じである。|葉の植物|The relationship of leaf plants is equivalent to the relationship of lung animals.
+BASIC5000_2452_hint2|葉の植物に対する関係は肺の動物に対する関係と同じである。|葉の関係|The relationship of leaves to plants is equivalent to the relationship of lungs to animals.
+BASIC5000_2512_hint1|過度の運動なので、ジョギングをやめるように医者が私に言った。|過度の運動なのでやめる|The doctor said that I should stop jogging because it is an excessive exercise.
+BASIC5000_2512_hint2|過度の運動なので、ジョギングをやめるように医者が私に言った。|過度の運動なので言った|Jogging is an excessive exercise, so the doctor said that I should stop it.
+BASIC5000_2528_hint1|少年たちは、楽しそうに歌いながら、行進を続けた。|楽しそうに歌った|The boys kept marching while singing enjoyably.
+BASIC5000_2528_hint2|少年たちは、楽しそうに歌いながら、行進を続けた。|楽しそうに行進した|The boys kept enjoyably marching while singing.
+BASIC5000_2556_hint1|死によって人間の限りある人生は終わる。|人間の限り|As long as we are humans, our lives finish with death.
+BASIC5000_2556_hint2|死によって人間の限りある人生は終わる。|限りある人生|Humans' limited lives finish with death.
+BASIC5000_2587_hint1|苦心惨憺の末、考え出した企画が、会議で、一瞬にして却下されちゃうんだからな。|苦心惨憺の末考え出した|We made the plan after working very hard, but it was rejected at the meeting in a moment.
+BASIC5000_2587_hint2|苦心惨憺の末、考え出した企画が、会議で、一瞬にして却下されちゃうんだからな。|苦心惨憺の末却下された|We made a plan, but it was rejected at the meeting in a moment, after we had worked very hard.
+BASIC5000_2759_hint1|湖は、明るい日の光を受けて経っていた。|明るい日|The lake was shining with the light of the bright sun.
+BASIC5000_2759_hint2|湖は、明るい日の光を受けて経っていた。|明るい光|The lake was shining with the bright light of the sun.
+BASIC5000_2781_hint1|昔から今に至るまで存在する、あらゆる社会の歴史は、階級闘争の歴史である。|あらゆる社会|The history of various societies, ranging from ancient to modern, is the history of class conflicts.
+BASIC5000_2781_hint2|昔から今に至るまで存在する、あらゆる社会の歴史は、階級闘争の歴史である。|あらゆる歴史|The various histories of society, ranging from ancient to modern, is the history of class conflicts.
+BASIC5000_3065_hint1|家宝の鎧が売られたと騒ぐ武家のご隠居が呼び出してしまった。|騒ぐ武家|The retired person of the panicked samurai family called someone because the sword, an heirloom of the family, was sold.
+BASIC5000_3065_hint2|家宝の鎧が売られたと騒ぐ武家のご隠居が呼び出してしまった。|騒ぐご隠居|The panicked retired person of the samurai family called someone because the sword, an heirloom of the family, was sold.
+BASIC5000_3084_hint1|また、諸般の事情で、日本国外に移住したいなどの理由付けも挙がる。|諸般の事情で移住したい|There are reasons why people want to move out of Japan due to various circumstances.
+BASIC5000_3084_hint2|また、諸般の事情で、日本国外に移住したいなどの理由付けも挙がる。|諸般の事情で挙がる|There are reasons due to various circumstances why people want to move out of Japan.
+BASIC5000_3101_hint1|他者に対しても、フォースを用いて、病や傷などを癒すことができる。|他者に対して用いる|Using the force for others can cure a disease and heal a wound.
+BASIC5000_3101_hint2|他者に対しても、フォースを用いて、病や傷などを癒すことができる。|他者に対して癒す|Using a force can cure a disease and heal a wound for others.
+BASIC5000_3145_hint1|忌憚のないご意見、改善案をお寄せください。|忌憚のない&[意見&改善案]|We appreciate your frank and honest opinions and improvement proposals.
+BASIC5000_3145_hint2|忌憚のないご意見、改善案をお寄せください。|[忌憚のない意見]&[改善案]|We appreciate your frank and honest opinions as well as improvement proposals.
+BASIC5000_3146_hint1|頭には蛇の顔のような眼状紋という模様があり、鳥などの天敵を驚かす効果がある。|蛇の顔のような眼状紋|It has a pattern called an eyespot, looking like a snake face and having the effect of surprising enemies, including birds.
+BASIC5000_3146_hint2|頭には蛇の顔のような眼状紋という模様があり、鳥などの天敵を驚かす効果がある。|蛇の顔のような模様|It has a pattern like a snake face called an eyespot, having the effect of surprising enemies, including birds.
+BASIC5000_3160_hint1|ごくまれに、透明な色の石も、採掘される。|透明な[色の石]|It is very rare that transparent stones of colors are mined.
+BASIC5000_3160_hint2|ごくまれに、透明な色の石も、採掘される。|[透明な色]の石|It is very rare that stones of transparent colors are mined.
+BASIC5000_3207_hint1|針のような形状の機首尖端部から、電波のようなものを発信し、水中にいる黒いおおかみ一味を翻弄、撤退させた。|針のような形状|Transmitting something like an electric wave from the top of the nose of the airplane that forms like a needle, it baffled the black wolves in water and drove them out of the place.
+BASIC5000_3207_hint2|針のような形状の機首尖端部から、電波のようなものを発信し、水中にいる黒いおおかみ一味を翻弄、撤退させた。|針のような突端部|Transmitting something like an electric wave from the top of the nose of the airplane that looks like a needle, it baffled the black wolves in water and drove them out of the place.
+BASIC5000_3217_hint1|折衷案というか、解決策として発動時は、刀の鍔を使った眼帯で意図的に視界を狭めている。|解決策として発動|Our solution and compromise plan are to put into a motion, so we make the field of vision narrow down on purpose by using an eye patch with a sword guard.
+BASIC5000_3217_hint2|折衷案というか、解決策として発動時は、刀の鍔を使った眼帯で意図的に視界を狭めている。|解決策として狭める|Our solution and compromise plan are to make the field of vision narrow down on purpose when putting into a motion, with an eye patch using a sword guard.
+BASIC5000_3225_hint1|間違った魔法でサマンサとダーリンを窮地に陥れる事もしばしば、更に呪文を忘れて事態を長引かせる事もあるが、温和な人柄で、夫婦からは親しまれている。|サマンサ＆ダーリンを陥れる|He often drives Samantha and her husband into a tight corner by using wrong magic; furthermore, sometimes he forgets spells and prolongs such trouble, but Samantha and her husband love him because of his gentle personality.
+BASIC5000_3225_hint2|間違った魔法でサマンサとダーリンを窮地に陥れる事もしばしば、更に呪文を忘れて事態を長引かせる事もあるが、温和な人柄で、夫婦からは親しまれている。|サマンサと一緒になってダーリンを陥れる|He often drives Samantha's husband into a tight corner by using wrong magic with Samantha; furthermore, sometimes he forgets spells and prolongs such trouble, but Samantha and her husband love him because of his gentle personality.
+BASIC5000_3237_hint1|本条約は、締約国に彼らの活動をカバーし、そのような素材の輸入、および輸出を可能にする国内の著作権の例外を規定するための規範を定めている。|可能にする国内|This article describes rules to allow parties to cover their activities and regulate exceptions to copyrights, allowing the parties to export and import such materials inside the country.
+BASIC5000_3237_hint2|本条約は、締約国に彼らの活動をカバーし、そのような素材の輸入、および輸出を可能にする国内の著作権の例外を規定するための規範を定めている。|可能にする著作権|This article describes rules to allow parties to cover their activities and regulate exceptions to domestic copyrights, allowing the parties to export and import such materials.
+BASIC5000_3237_hint3|本条約は、締約国に彼らの活動をカバーし、そのような素材の輸入、および輸出を可能にする国内の著作権の例外を規定するための規範を定めている。|可能にする例外|This article describes the rules to allow parties to cover their activities and regulate exceptions, allowing to import and export such materials, to domestic copyrights.
+BASIC5000_3243_hint1|編集者を自称し、横暴な仕切りとピンハネで私腹を肥やす。|[横暴な仕切り]と[ピンハネ]|He calls himself an editor and lines his pockets by oppressive management and kickbacks.
+BASIC5000_3243_hint2|編集者を自称し、横暴な仕切りとピンハネで私腹を肥やす。|横暴な[仕切りとピンハネ]|He calls himself an editor and lines his pockets by management and kickbacks which are oppressive.
+BASIC5000_3246_hint1|ガス風船とは、一般には、浮揚性のある水素ガスや、ヘリウムガスを注入したゴム風船や、マイラーバルーンのこと。|"[浮揚性のある水素ガス]や[ヘリウムガスを注入したゴム風船]"|Gas balloons are generally rubber balloons or mylar balloons in which hydrogen gas that is buoyant or helium gas is injected.
+BASIC5000_3246_hint2|ガス風船とは、一般には、浮揚性のある水素ガスや、ヘリウムガスを注入したゴム風船や、マイラーバルーンのこと。|浮揚性のある[水素ガスやヘリウムガス]|Gas balloons are generally rubber balloons or mylar balloons in which buoyant hydrogen or helium gases are injected.
+BASIC5000_3247_hint1|その直感通り奮戦むなしく完敗するものの、捨て身の覚悟で虚の片腕を封じ、同時に自分の剣を銀時に渡すことで、彼が虚に一矢報いることに貢献した。|直感通り奮戦|Following his nose, he fought bravely but lost. However, he desperately blocked the right-hand man of Utsuro, and at the same time, he helped Gintoki to attack Utsuro by giving his sword to Gintoki.
+BASIC5000_3247_hint2|その直感通り奮戦むなしく完敗するものの、捨て身の覚悟で虚の片腕を封じ、同時に自分の剣を銀時に渡すことで、彼が虚に一矢報いることに貢献した。|直感通り完敗|He fought bravely but lost as intuition told him. However, he desperately blocked the right-hand man of Utsuro, and at the same time, he helped Gintoki to attack Utsuro by giving his sword to Gintoki.
+BASIC5000_3256_hint1|また、唐代中期以降は、直播き式であった稲作は、苗代式に変わっていった。|中期以降は直播き式であった|In addition, a direct sowing method was used for rice-growing after the middle of the Tang period, but it changed to a nursery method.
+BASIC5000_3256_hint2|また、唐代中期以降は、直播き式であった稲作は、苗代式に変わっていった。|中期以降は変わっていった|In addition, a direct sowing method was used for rice-growing, but after the middle of the Tang period, it changed to a nursery method.
+BASIC5000_3259_hint1|意図的に開けた人払いの結界の穴から入って来た男を逆ナンして、性行為を行った人数を競い、僅差で敗北した。|意図的に開けた人払い|I picked up men coming through the sacred hole for getting rid of people that I had opened on purpose. I competed how many men to sleep with but lost with a narrow margin.
+BASIC5000_3259_hint2|意図的に開けた人払いの結界の穴から入って来た男を逆ナンして、性行為を行った人数を競い、僅差で敗北した。|意図的に開けた穴|I picked up men coming through the sacred hole for getting rid of people, which I had opened on purpose, and I competed on how many I could sleep with, but I lost by a narrow margin.
+BASIC5000_3268_hint1|楽譜に書くとき、ひとつの強拍に連なる拍のまとまりを、小節と呼ぶ。|ひとつの強拍|When writing music scores, we call beats that consist of a beat a bar.
+BASIC5000_3268_hint2|楽譜に書くとき、ひとつの強拍に連なる拍のまとまりを、小節と呼ぶ。|ひとつのまとまり|When writing music scores, we call a set of beats a bar.
+BASIC5000_3288_hint1|主流の有線設備と異なり、直接電気的に接続する必要が無いため、感電の可能性を避けるため、設備を遮蔽する必要のある場合もある。|有線設備の中でも主流のもの|Unlike the major wire equipment, there is no need of a direct electrical connection; therefore, the possibility of an electric shock can be avoided, so it might be required to shield the equipment.
+BASIC5000_3288_hint2|主流の有線設備と異なり、直接電気的に接続する必要が無いため、感電の可能性を避けるため、設備を遮蔽する必要のある場合もある。|有線設備は一般的に主流|Unlike major wire equipment, there is no need of a direct electrical connection; therefore, the possibility of an electric shock can be avoided, so it might be required to shield the equipment.
+BASIC5000_3300_hint1|それがたとえ拙い完璧でない表現でも法律違反にはなっていないので、この点は、頭痛さんにご理解願いたいと思います。|拙い完璧|Even though the expression is completely childish, it is not against the law. I want people with headaches to understand this standpoint.
+BASIC5000_3300_hint2|それがたとえ拙い完璧でない表現でも法律違反にはなっていないので、この点は、頭痛さんにご理解願いたいと思います。|拙い表現|Even though it is a childish expression and not perfect, it is not against the law. I want headaches to understand this standpoint.
+BASIC5000_3317_hint1|たとえば、ヒトの歯の断面は、外側からエナメル質、象牙質、歯髄と、輪のように並んでおり、エナメル質が入り組んで、形成されているわけではない。|入り組んで形成されている|For example, when viewed in cross section of human' teeth, enamel, dentin, and the pulp are lined up from the outside like a circle. The enamel is not tangled with other parts to compose a tooth.
+BASIC5000_3317_hint2|たとえば、ヒトの歯の断面は、外側からエナメル質、象牙質、歯髄と、輪のように並んでおり、エナメル質が入り組んで、形成されているわけではない。|入り組んでいるが、形成されていない|For example, when viewed in cross section of human teeth, enamel, dentin, and the pulp are lined up from the outside like a circle. The enamel is tangled with other parts but does not compose a tooth.
+BASIC5000_3345_hint1|そのため、法及び各種通達等において定めることができない事例については、法の趣旨と実施機関が管轄する地域の実情などを勘案して判断される。|法の趣旨と実施機関|Therefore, in regard to matters that cannot be determined by laws or each notification, they are judged by the objectives of laws and executing organization that consider regional conditions.
+BASIC5000_3345_hint2|そのため、法及び各種通達等において定めることができない事例については、法の趣旨と実施機関が管轄する地域の実情などを勘案して判断される。|法の趣旨と実情|Therefore, in regard to matters that cannot be determined by laws and each notification, considering objectives of the law and regional conditions, the executing organization makes a judgement.
+BASIC5000_3352_hint1|ガスの高速輸送の際にパイプが励振されたり、飛行機の翼まわりの空気の乱流が原因で、翼が励振されるなどの発生例があり、多くの機械系の設計において、考慮する必要がある。|多くの機械系|Pipes are driven during express gas transportation, and the wings of airplanes are driven due to air turbulence around the wings; therefore, we must consider these conditions when designing many mechanical systems.
+BASIC5000_3352_hint2|ガスの高速輸送の際にパイプが励振されたり、飛行機の翼まわりの空気の乱流が原因で、翼が励振されるなどの発生例があり、多くの機械系の設計において、考慮する必要がある。|多くの設計|Pipes are driven during express gas transportation, and the wings of airplanes are driven due to air turbulence around the wings; therefore, we must consider these conditions in many mechanical designs.
+BASIC5000_3382_hint1|他の家族や使用人のように夫に愛人がいたと疑念を抱いたのか否かは不明である。|他の家族や使用人のように愛人がいた|I am not sure that she doubted that her husband had a mistress, as other families and servants had.
+BASIC5000_3382_hint2|他の家族や使用人のように夫に愛人がいたと疑念を抱いたのか否かは不明である。|他の家族や使用人のように疑念を抱いた|I am not sure that she doubted, as other families and servants did, that her husband had a mistress.
+BASIC5000_3395_hint1|欲望に囚われた不倫の男女による保険金目的の完全犯罪とその破綻。|欲望に囚われた不倫|The perfect crime aiming at the insurance money was plotted by a couple having an affair with endless desire and an unhappy ending.
+BASIC5000_3395_hint2|欲望に囚われた不倫の男女による保険金目的の完全犯罪とその破綻。|欲望に囚われた男女|The perfect crime aiming at the insurance money was plotted by a couple with endless desire having an affair and an unhappy ending.
+BASIC5000_3399_hint1|また、遺棄された在外資産は、中間賠償と呼ばれる賠償の一部という形態をとることもある。|中間賠償の一部|In addition, a part of the interim compensation could be demanded for abandoned overseas assets.
+BASIC5000_3399_hint2|また、遺棄された在外資産は、中間賠償と呼ばれる賠償の一部という形態をとることもある。|中間賠償＝賠償の一部|In addition, the interim compensation that is a part of the compensation could be demanded for abandoned overseas assets.
+BASIC5000_3403_hint1|拳銃を手に、攫われた娘、イリアを救うべく敵地へ赴く。|拳銃を手に攫われた|I went to the enemy territory to rescue Ilia, who had a gun and been kidnapped.
+BASIC5000_3403_hint2|拳銃を手に、攫われた娘、イリアを救うべく敵地へ赴く。|拳銃を手に赴く|With a gun, I went to the enemy territory to rescue Ilia, who had been kidnapped.
+BASIC5000_3408_hint1|ある商家に、共に酒好きな大旦那と若旦那の親子がいた。|酒好きな大旦那|There is a merchant family with an old master who was a heavy drinker and a young master.
+BASIC5000_3408_hint2|ある商家に、共に酒好きな大旦那と若旦那の親子がいた。|酒好きな親子|There is a merchant family with an old master and a young master that were heavy drinkers.
+BASIC5000_3423_hint1|塔内やゲフェニアに出現する天使が落とす特定のアイテムを彼女に渡せば、いくらかの褒賞が与えられる。|出現する天使|If you give her specific items that are dropped by angels appearing inside the tower and Gefenia, you will get some rewards.
+BASIC5000_3423_hint2|塔内やゲフェニアに出現する天使が落とす特定のアイテムを彼女に渡せば、いくらかの褒賞が与えられる。|出現するアイテム|If you give her specific items that appear inside the tower and Gefenia, which are dropped by angels, you will get some rewards.
+BASIC5000_3457_hint1|私は村にいる時、彼の盗みの手下になったことがあったために、私が黙って都へ立去ったことを彼は憤慨しているらしかった。|彼の盗み|I became involved with his theft group when living in the village. I heard that he was angry because I left the town without saying.
+BASIC5000_3457_hint2|私は村にいる時、彼の盗みの手下になったことがあったために、私が黙って都へ立去ったことを彼は憤慨しているらしかった。|彼の手下|I was a subordinate of his theft group when living in the village. I heard that he was angry because I left the town without saying.
+BASIC5000_3467_hint1|長い手足を生かした回転量の多いドライブと、俊敏なフットワークが持ち味で、ラリー戦に強い。|長い手足を生かした回転量|His advantages are driving the ball with many spins using his long legs and arms and swift footwork.
+BASIC5000_3467_hint2|長い手足を生かした回転量の多いドライブと、俊敏なフットワークが持ち味で、ラリー戦に強い。|長い手足を生かしたドライブ|His advantages are driving the ball using his long legs and arms with many spins and swift footwork.
+BASIC5000_3475_hint1|しかし、万が一のために、身体に仕込んでおいた内臓を停止させる特殊な発信機の存在を彼女に見抜かれた上、それを、逆に自身の体内に埋め込まれて死亡した。|身体に仕込んでおいた内臓|However, she found a specific transmitter aiming to halt internal organs that were embedded in the body just in case, and she killed him by embedding the transmitter into their body.
+BASIC5000_3475_hint2|しかし、万が一のために、身体に仕込んでおいた内臓を停止させる特殊な発信機の存在を彼女に見抜かれた上、それを、逆に自身の体内に埋め込まれて死亡した。|身体に仕込んでおいた発信器|However, she found a specific transmitter that I embedded in the body to halt internal organs just in case, and she killed him by embedding the transmitter into their body.
+BASIC5000_3480_hint1|しかし同時に、エドガーが完全なプリンスとして覚醒した時は、元々彼の持つ資質により、今までにない強力な支配力を持つプリンスになると危惧されている。|エドガーが完全|At the same time, however, it is worried that if the perfect Edgar is awakened as a prince, he could be a prince with the most powerful controlling power because of his natural talents.
+BASIC5000_3480_hint2|しかし同時に、エドガーが完全なプリンスとして覚醒した時は、元々彼の持つ資質により、今までにない強力な支配力を持つプリンスになると危惧されている。|エドガーが覚醒した|At the same time, however, it is worried that if Edgar is awakened as a perfect prince, he could be a prince with the most powerful controlling power because of his natural talents.
+BASIC5000_3497_hint1|一般に結晶というものは、結晶面の欠陥部分に優先して原子を取り込みやすいので、ゆっくりと成長した場合には、結晶面に凹凸が無い単純な構造となる。|欠陥部分に優先して|In regard to crystallization, generally, the imperfect area of crystal is given priority to be filled with atoms. That is why, if the crystal grows gradually, the structure will become simple and the surface has no unevenness.
+BASIC5000_3497_hint2|一般に結晶というものは、結晶面の欠陥部分に優先して原子を取り込みやすいので、ゆっくりと成長した場合には、結晶面に凹凸が無い単純な構造となる。|欠陥部分に取り込みやすい|In regard to crystallization, generally, the imperfect area of crystal is easily filled with atoms, preferentially. That is why, if the crystal grows gradually, its form will be simple and there will be no unevenness on the surface.
+BASIC5000_3499_hint1|一味が会社で料理を好むことがばれることが、路線転換になり、料理に親しむことの重要性を意味することが大きくなった。|会社で料理|Everyone realized that the group liked cooking at the company. This was an opportunity to tell the importance of cooking.
+BASIC5000_3499_hint2|一味が会社で料理を好むことがばれることが、路線転換になり、料理に親しむことの重要性を意味することが大きくなった。|会社でばれる|At the company, everyone realized that the group liked cooking. This was an opportunity to tell the importance of cooking.
+BASIC5000_3505_hint1|夜会巻きをソツなくこなし、ぐー子も羨む女子力の高い美人だが、男運が悪く、趣味はお見合い。|ぐー子も羨む女子力|The beautiful woman arranges her hair and Guko envies the woman's femineity. However, the woman does not have a boyfriend, so she joins matchmaking events.
+BASIC5000_3505_hint2|夜会巻きをソツなくこなし、ぐー子も羨む女子力の高い美人だが、男運が悪く、趣味はお見合い。|ぐー子も羨む美人|The woman arranges her hair beautifully and Guko envies the woman's good appearance with femineity. However, the woman does not have a boyfriend, so she joins matchmaking events.
+BASIC5000_3516_hint1|母はニッケルを後継ぎにさせるために、ライバルとなる異母兄弟たちを多数暗殺しており、ニッケルはそんな母を咎める気持ちを持ちつつ愛している。|母を咎める|In order for Nickel to become an inheritor, his mother assassinated many rival step-brothers. He blames his mother for what she did but loves her.
+BASIC5000_3516_hint2|母はニッケルを後継ぎにさせるために、ライバルとなる異母兄弟たちを多数暗殺しており、ニッケルはそんな母を咎める気持ちを持ちつつ愛している。|母を愛している|In order for Nickel to become an inheritor, his mother assassinated many rival step-brothers. He loves his mother but blames her for what she did.
+BASIC5000_3543_hint1|記載内容の独自性を損なうことなく、見易さ、読みやすさを増すために統一したスタイルを導入することを促進します。|増すために統一した|I will promote the introduction of a unified style to increase visibility and readability without reducing originality in the contents.
+BASIC5000_3543_hint2|記載内容の独自性を損なうことなく、見易さ、読みやすさを増すために統一したスタイルを導入することを促進します。|増すために導入する|In order to increase visibility and readability without reducing originality in the contents, I will promote the introduction of a unified style.
+BASIC5000_3553_hint1|入植白人たちは、毒入りの肉や、天然痘に感染したインディアンの毛布を狼に与えた。|天然痘に感染したインディアン|The immigrant white people gave wolves poisoned meat and blankets of native Indians who were infected with smallpox.
+BASIC5000_3553_hint2|入植白人たちは、毒入りの肉や、天然痘に感染したインディアンの毛布を狼に与えた。|天然痘に感染した毛布|The immigrant white people gave wolves poisoned meat and native Indians' blankets infected with smallpox.
+BASIC5000_3563_hint1|特命を帯びた軍団と、金塊を強奪し、東側のエージェントとして動く組織とのバトル。|軍団と一緒に金塊を強奪する|A battle with the organization that seized gold with a special assignment group and works as an east-side agent.
+BASIC5000_3563_hint3|特命を帯びた軍団と、金塊を強奪し、東側のエージェントとして動く組織とのバトル。|[軍団＆金塊]を強奪する|A battle with the organization that works as the east-side agent that seized gold and a special assignment group.
+BASIC5000_3563_hint2|特命を帯びた軍団と、金塊を強奪し、東側のエージェントとして動く組織とのバトル。|軍団と組織とのバトル|A battle between the special assignment group and the organization that seized gold and works as an east-side agent.
+BASIC5000_3569_hint1|アゴラは中央集権制度にかわって食料の再配分を行なうための制度となり、民衆に食物を供給し、新鮮な食材や、調理ずみの食品が売られた。|中央集権制度にかわって再配分する|Agora became the system for food re-distribution instead of the central government and provided the public with food; therefore, fresh ingredients and cooked products were sold.
+BASIC5000_3569_hint2|アゴラは中央集権制度にかわって食料の再配分を行なうための制度となり、民衆に食物を供給し、新鮮な食材や、調理ずみの食品が売られた。|中央集権制度が別の制度に変化する|The central government changed to agora, a system for food re-distribution to provide the public with food; therefore, fresh ingredients and cooked products were sold.
+BASIC5000_3575_hint1|抽象的ベクトル空間の理論において、基底変換の概念は影響の少ないもので、わずかな自然科学の法則を与えるものに過ぎないように思われる。|基底変換の概念は影響が少ない|In the theory of abstract vector spaces, it is considered that there are small effects of the base conversion concepts and only a few natural science rules.
+BASIC5000_3575_hint2|抽象的ベクトル空間の理論において、基底変換の概念は影響の少ないもので、わずかな自然科学の法則を与えるものに過ぎないように思われる。|基底変換の概念は自然科学の法則を与える|In the theory of abstract vector spaces, it is considered that there is only a few natural science rules provided by the base conversion concepts.
+BASIC5000_3603_hint1|もはや生きることを望まないエルフの魂は、肉体を抜け出して、マンドスの館に憩うことができる。|望まないエルフ|The elf does not want to live anymore, and the soul escapes from the body and can stay at the house of Mandos.
+BASIC5000_3603_hint2|もはや生きることを望まないエルフの魂は、肉体を抜け出して、マンドスの館に憩うことができる。|望まない魂|The soul of the elf does not want to live anymore and escapes from the body and stays at the house of Mandos.
+BASIC5000_3608_hint1|集落の小さな社だが、今に伝わる由緒から、縁結びや安産などのご利益があるとされる。|集落が小さい|The Shinto shrine is located in a small community, but it is famous for receiving a blessing of marriage and easy delivery from ancient times to the present.
+BASIC5000_3608_hint2|集落の小さな社だが、今に伝わる由緒から、縁結びや安産などのご利益があるとされる。|社が小さい|It is a small Shinto shrine in the community, but it is famous for receiving a blessing of marriage and easy delivery from ancient times to the present.
+BASIC5000_3615_hint1|公家が邸宅に入浴施設を取り入れ始めた平安時代ごろから、集落の密集した都市には、入浴をサービスとして提供する、町湯が現れたといわれている。|平安時代ごろから密集した|Since around the Heian Era, when many communities were established in the cities, the nobility started to introduce a bathroom in their house and the culture of public baths was born.
+BASIC5000_3615_hint2|公家が邸宅に入浴施設を取り入れ始めた平安時代ごろから、集落の密集した都市には、入浴をサービスとして提供する、町湯が現れたといわれている。|平安時代ごろから現れた|Since around the Heian Era, when the nobility started to introduce a bathroom in their house, the culture of public baths was born in cities with many communities.
+BASIC5000_3616_hint1|運河沿いに繁る楓と、点々と灯る川のいさり火の光が、旅の愁いの浅い眠りにチラチラかすめる。|点々と灯る川|While sleeping shallowly during my journey, I saw untrimmed maple trees along the canal and scattered fire to attract fish on the illuminating river.
+BASIC5000_3616_hint2|運河沿いに繁る楓と、点々と灯る川のいさり火の光が、旅の愁いの浅い眠りにチラチラかすめる。|点々と灯る光|While sleeping shallowly during my journey, I saw untrimmed maple trees along the canal and illuminating scattered fire to attract fish on the river.
+BASIC5000_3617_hint1|塗膜の上塗り及び下層に対する接着性が良く、亀裂の発生も少ない。|[塗膜の上塗り]及び[下層]|The overcoating of the paint film and the adhesiveness to the bottom layer are good, and there are not many cracks.
+BASIC5000_3617_hint2|塗膜の上塗り及び下層に対する接着性が良く、亀裂の発生も少ない。|塗膜の[上塗り及び下層]に対する接着性|The adhesiveness of the paint film to the overcoating and bottom layer is good, and there are not many cracks.
+BASIC5000_3621_hint1|有名なおとぎ話や、偉人の逸話を元としたパロディの話。|おとぎ話や逸話|They are parodies based on famous fairy tales and biographies of great people.
+BASIC5000_3621_hint2|有名なおとぎ話や、偉人の逸話を元としたパロディの話。|おとぎ話やパロディの話|They are famous fairy tales and parodies based on biographies of great people.
+BASIC5000_3623_hint1|戦闘機や戦車などのグラフィックの多くは、第二次世界大戦以降使用されているものを模倣しており、プレイして、現代世界で戦争をしているという緊張感がある。|第二次世界大戦以降使用されている|Most of the combat aircraft and tank graphics are imitations of real aircraft and tanks that have been used after WWII. When playing the game, we feel tension of fighting in the present world.
+BASIC5000_3623_hint2|戦闘機や戦車などのグラフィックの多くは、第二次世界大戦以降使用されているものを模倣しており、プレイして、現代世界で戦争をしているという緊張感がある。|第二次世界大戦以降模倣している|After WWII, most of the combat aircraft and tank graphics became imitations of real aircraft and tanks, which are still being used. When playing the game, we feel tension of fighting in the present world.
+BASIC5000_3661_hint1|負荷が単純な電気抵抗である場合、電圧の実効値と、電流の実効値の積は、電力と等しくなるように定義されている。|負荷が単純|If the load of electric resistance is simple, the product of an rms value of voltage and an rms value of current is defined as the equivalent to electric power.
+BASIC5000_3661_hint2|負荷が単純な電気抵抗である場合、電圧の実効値と、電流の実効値の積は、電力と等しくなるように定義されている。|単純な電気抵抗|If the load is simple electric resistance, the product of an rms value of voltage and an rms value of current is defined as the equivalent to electric power.
+BASIC5000_3669_hint1|アーチの美しい曲線と、長大な橋梁を支えるにもかかわらず、軽やかさを感じさせるデザインは、周辺の景観に調和し、明礬温泉のシンボル的存在となっている。|アーチが美しい|Supporting the curve of a beautiful arch and the long and big bridge, the design has lightness and harmonizes with the surrounding landscape. It became a symbol of Myoban Onsen.
+BASIC5000_3669_hint2|アーチの美しい曲線と、長大な橋梁を支えるにもかかわらず、軽やかさを感じさせるデザインは、周辺の景観に調和し、明礬温泉のシンボル的存在となっている。|アーチの曲線|Supporting the beautiful curve of the arch and the long and big bridge, the design has lightness and harmonizes with the surrounding landscape. It became a symbol of Myoban Onsen.
+BASIC5000_3681_hint1|臨時のシェフとして、併設されているカフェで働いている。|臨時のシェフとして併設されている|I work at the café, which has been established attached to the building as a temporary chef.
+BASIC5000_3681_hint2|臨時のシェフとして、併設されているカフェで働いている。|臨時のシェフとして働いている|I work as a temporary chef at the café which has been established attached to the building.
+BASIC5000_3686_hint1|ナーシェンが出すはずだった竜騎士の援軍が来なかったため、立ち往生していた。|ナーシェンが出すはずだった竜騎士|Dragon knights that Nachen should have sent as reinforcements did not come, so we could not do anything.
+BASIC5000_3686_hint2|ナーシェンが出すはずだった竜騎士の援軍が来なかったため、立ち往生していた。|ナーシェンが出すはずだった援軍|The reinforcements of dragon knights that Nachen should have sent did not come, so we could not do anything.
+BASIC5000_3689_hint1|戦いの中でキン肉マンは、黒後家蜘蛛の呪いを解除するが、キン肉マンは、正義超人のイメージを覆す指折り、マスク剥ぎなど裏技を乱発。|イメージを覆す指折り|During the fight, Kinniku Man broke the spell of black windows. He used any means such as breaking finger bones, a good super hero should not do, and taking off a mask.
+BASIC5000_3689_hint2|戦いの中でキン肉マンは、黒後家蜘蛛の呪いを解除するが、キン肉マンは、正義超人のイメージを覆す指折り、マスク剥ぎなど裏技を乱発。|イメージを覆す裏技|During the fight, Kinniku Man broke the spell of black windows. He used any means that a good super hero should not do, such as breaking finger bones and taking off a mask.
+BASIC5000_3710_hint1|ちーちゃんが危ういと、主人公に忠告した。|ちーちゃんが危うい|I advised the hero that Chi-chan is in danger.
+BASIC5000_3710_hint2|ちーちゃんが危ういと、主人公に忠告した。|ちーちゃんが忠告した|Chi-chan advised the hero that it is dangerous.
+BASIC5000_3711_hint1|現代においても多連装ロケット砲は、既に混乱していたり、統率の取れていない、敵部隊の士気を劇的に低下させる効果のある兵器として評価されている。|低下させる効果|In modern times, when enemies are already confused or have lost their leadership, a multiple rocket launch system is evaluated as a weapon having effects of reducing the morale of enemies significantly.
+BASIC5000_3711_hint2|現代においても多連装ロケット砲は、既に混乱していたり、統率の取れていない、敵部隊の士気を劇的に低下させる効果のある兵器として評価されている。|低下させる兵器|In modern times, when enemies are already confused or have lost their leadership, a multiple rocket launch system is evaluated as an effective weapon to reduce the morale of enemies significantly.
+BASIC5000_3724_hint1|法華宗真門流の寺院に関するカテゴリ。|法華宗真門流の寺院|It is a category of the Hokke sect Shinmon school related to temples.
+BASIC5000_3724_hint2|法華宗真門流の寺院に関するカテゴリ。|法華宗真門流のカテゴリ|It is a category related to temples of the Hokke sect Shinmon school.
+BASIC5000_3727_hint1|コロニス族の中で最も大きい小惑星であり、コロニス族の他の小惑星は、かつてこの小惑星に衝突が起こって砕けた時の破片だろうと考えられている。|コロニス族の他＝コロニス族以外|It is the biggest minor planet in Koronis, and minor planets other than Koronis are considered as fragments caused by a crash long time ago.
+BASIC5000_3727_hint2|コロニス族の中で最も大きい小惑星であり、コロニス族の他の小惑星は、かつてこの小惑星に衝突が起こって砕けた時の破片だろうと考えられている。|コロニス族の小惑星|It is the biggest minor planet in Koronis, and other minor planets of Koronis are considered as fragments caused by a crash long time ago.
+BASIC5000_3735_hint1|好き嫌いが激しすぎて、嫌いな相手の話をする際、唾を吐き捨てるという名門貴族の令嬢に相応しからぬ下品な行為が多々ある。|唾を吐き捨てるという名門貴族|She has strong likes and dislikes, so when talking about a person that she dislikes, she, a lady of renowned aristocracy that spits, often behaves rudely.
+BASIC5000_3735_hint2|好き嫌いが激しすぎて、嫌いな相手の話をする際、唾を吐き捨てるという名門貴族の令嬢に相応しからぬ下品な行為が多々ある。|唾を吐き捨てるという行為|She has strong likes and dislikes, so when talking about a person that she dislikes, she behaves rudely, such as spitting, which should not be done by a renowned aristocracy lady.
+BASIC5000_3745_hint1|交渉のために丸腰になって防弾チョッキすら身に着けていない状態で近寄ってきた警官に向かって何度も銃を乱射したり、事あるごとに銃を振り回す危ない男。|身につけていない状態で近寄ってきた|The dangerous man wielded a gun and shot at a policeman without a weapon and a bulletproof jacket approaching for negotiation with him.
+BASIC5000_3745_hint2|交渉のために丸腰になって防弾チョッキすら身に着けていない状態で近寄ってきた警官に向かって何度も銃を乱射したり、事あるごとに銃を振り回す危ない男。|身につけていない状態で乱射した|To negotiate, the dangerous man had no weapon or bulletproof jacket and wielded a gun and shot at a policeman approaching him.
+BASIC5000_3758_hint1|他チームの鋭い変化球を崩す手段として、様々な打法も編み出されている。|他チームが鋭い|As means against other sharp teams' breaking balls, various batting methods are created.
+BASIC5000_3758_hint2|他チームの鋭い変化球を崩す手段として、様々な打法も編み出されている。|他チームの変化球|As means against other teams' sharp breaking balls, various batting methods are created.
+BASIC5000_3799_hint1|スポーツ新聞の競馬欄によく掲載されている、独特の味がある文面の広告で知られる。|独特の味がある文面|It is known as an advertisement with unique messages that is frequently published in the horse racing section of a sport newspaper.
+BASIC5000_3799_hint2|スポーツ新聞の競馬欄によく掲載されている、独特の味がある文面の広告で知られる。|文面の広告|It is known as a unique advertisement with messages that is frequently published in the horse racing section of a sport newspaper.
+BASIC5000_3801_hint1|映画中の緊張度の高い場面間に、笑いを誘う場面を挟む手法、あるいは、その手法を担う俳優のことを指す。|映画中の緊張度|It means the method or the actor that makes a laugh between scenes with tension of the film.
+BASIC5000_3801_hint2|映画中の緊張度の高い場面間に、笑いを誘う場面を挟む手法、あるいは、その手法を担う俳優のことを指す。|映画中の場面|It means the method or the actor that makes a laugh between scenes of the film when there is tension.
+BASIC5000_3830_hint1|古くから養蜂されているハチを食害する、害鳥とみなされることもある。|古くから養蜂されている|In some cases, it is considered as a harmful bird eating bees that have been raised for a long time.
+BASIC5000_3830_hint2|古くから養蜂されているハチを食害する、害鳥とみなされることもある。|古くからみなされる|In some cases, it is considered for a long time as a harmful bird eating bees that have been raised.
+BASIC5000_3859_hint1|自らも不遇な環境に置かれていたため、困窮した生活や、人生の諦念、弱者や病気への苦しみなど、独特の倫理観で憐れみ、哀しみを詠った句が、多いのが特徴である。|憐れんで詠った|In regard to characteristics of his poems, he wrote sorrowful poems with pity about poor life, resignation for life, pains of vulnerable people, and suffering from diseases, which were based on his unique ethical view due to his own unfortunate life.
+BASIC5000_3859_hint2|自らも不遇な環境に置かれていたため、困窮した生活や、人生の諦念、弱者や病気への苦しみなど、独特の倫理観で憐れみ、哀しみを詠った句が、多いのが特徴である。|憐れみと哀しみを詠った|In regard to characteristics of his poems, he wrote about the sorrow and pity of poor life, resignation for life, pains of vulnerable people and diseases, which were based on his unique ethical view due to his own unfortunate life.
+BASIC5000_3862_hint1|世界を手中に収める為に、戦死した各国の兵士達で構成されている。|手中に収めるために戦死した|It consists of warriors of each country who passed away, aiming to control the world.
+BASIC5000_3862_hint2|世界を手中に収める為に、戦死した各国の兵士達で構成されている。|手中に収めるために構成されている|To control the world, it consists of warriors of each country who passed away.
+BASIC5000_3870_hint1|この偉大な運命というべき夢の極みにいたるとき、新しい時代が始まっているだろう。|偉大な運命|When reaching the peak of my dream, we should call it a great fortune; the new age will have already started.
+BASIC5000_3870_hint2|この偉大な運命というべき夢の極みにいたるとき、新しい時代が始まっているだろう。|偉大な夢|When reaching the peak of my great dream, I should call it a fortune; the new age will have already started.
+BASIC5000_3870_hint3|この偉大な運命というべき夢の極みにいたるとき、新しい時代が始まっているだろう。|偉大な極み|When reaching the great peak of my dream, I should call it a fortune; the new age will have already started.
+BASIC5000_3885_hint1|蝦夷に籠もる旧幕府軍に対する攻撃の指揮を執る。|旧幕府軍に対する攻撃|It directs the attacks upon the former Shogunate army that stays in Ezo.
+BASIC5000_3885_hint2|蝦夷に籠もる旧幕府軍に対する攻撃の指揮を執る。|旧幕府軍に対する指揮|It directs the former Shogunate army that stays in Ezo on the attacks.
+BASIC5000_3910_hint1|人の母乳や牛乳などにも含まれるが、特に、サメの肝臓にもっとも多く含まれる。|[人の母乳]や[牛乳]|It is contained in human breast milk and cow milk, but it is contained most especially in shark livers.
+BASIC5000_3910_hint2|人の母乳や牛乳などにも含まれるが、特に、サメの肝臓にもっとも多く含まれる。|人の[母乳や牛乳]|It is contained in breast milk and cow milk of humans, but it is contained most especially in shark livers.
+BASIC5000_3911_hint1|またこの時、現役時代と遜色ない火事場のクソ力で炎のランタンを激しく燃え上がらせている。|遜色ない火事場|In addition, he burns the lantern of the flame strongly at the moment by using the fight-or-flight response at the scene of a fire like when he was young.
+BASIC5000_3911_hint2|またこの時、現役時代と遜色ない火事場のクソ力で炎のランタンを激しく燃え上がらせている。|遜色ないクソ力|In addition, he burns the lantern of the flame strongly at the moment by using his fight-or-fight response like when he was young.
+BASIC5000_3922_hint1|部族制をとる鮮卑にとって貴い血筋とは、各部族の族長級の者たちであり、また、戦乱の中で軍功を挙げた、功臣たちであった。|鮮卑にとって貴い|The Sien-pi people had a tribal system, and the noble families for them were top class people of each tribe and meritorious retainers who achieved distinguished services during the war.
+BASIC5000_3922_hint2|部族制をとる鮮卑にとって貴い血筋とは、各部族の族長級の者たちであり、また、戦乱の中で軍功を挙げた、功臣たちであった。|鮮卑にとっては〜であった|They were noble for the Sien-pi people with a tribal system that the top class people of each tribe and meritorious retainers who achieved distinguished services during the war.
+BASIC5000_3927_hint1|困っている人には手を差し伸べる、心の優しい人物。|手を差し伸べる心|He has kindness to help people who are in trouble.
+BASIC5000_3927_hint2|困っている人には手を差し伸べる、心の優しい人物。|手を差し伸べる人物|He is a kind person, helping people who are in trouble.
+BASIC5000_3934_hint1|そのとき、バイヨン寺院のかがやく青空に接した頂きから、自分を呼ぶ若々しい声を耳にした。|バイヨン寺院が輝く|At the moment, from the top of the shining Bayon temple in the blue sky, I heard a young person calling my name.
+BASIC5000_3934_hint2|そのとき、バイヨン寺院のかがやく青空に接した頂きから、自分を呼ぶ若々しい声を耳にした。|バイヨン寺院の青空|At the moment, from the shining blue sky of the top of the Bayon temple, I heard a young person calling my name.
+BASIC5000_3934_hint3|そのとき、バイヨン寺院のかがやく青空に接した頂きから、自分を呼ぶ若々しい声を耳にした。|バイヨン寺院の頂き|At the moment, from the top of the Bayon temple shining in the blue sky, I heard a young person calling my name.
+BASIC5000_3944_hint1|レオナートは、棚上げになっていたエローとクラウディオの結婚を祝うために、仮面舞踏会を開催する。|棚上げになっていたエロー|Leonart gives a ball dance party to celebrate the marriage of Ello, who has been shelved, and Claudio.
+BASIC5000_3944_hint2|レオナートは、棚上げになっていたエローとクラウディオの結婚を祝うために、仮面舞踏会を開催する。|棚上げになっていた結婚|Leonart is giving a ball dance party to celebrate Ello and Claudio’s marriage, which had been shelved.
+BASIC5000_3966_hint1|ここはサウロンの王国の心臓部と言うべきものであり、彼の昔日の力の源でもある。|昔日の力|Here is the heart of the Saulon Kingdom and also the power of his old day source.
+BASIC5000_3966_hint2|ここはサウロンの王国の心臓部と言うべきものであり、彼の昔日の力の源でもある。|昔日の源|Here is the heart of the Saulon Kingdom and also the source of his old day power.
+BASIC5000_3966_hint3|ここはサウロンの王国の心臓部と言うべきものであり、彼の昔日の力の源でもある。|彼の昔日|Here is the heart of the Saulon Kingdom and also the power source of his old days.
+BASIC5000_4027_hint1|通常、乾燥した気体として、窒素が用いられる。|通常乾燥している|Nitrogen is used as a gas that is generally drying.
+BASIC5000_4027_hint2|通常、乾燥した気体として、窒素が用いられる。|通常用いられる|Nitrogen is used generally as a drying gas.
+BASIC5000_4031_hint1|特に夏は圧巻で、美しい緑の木々で朱色の社殿が映える。|美しい緑|The vermillion color of the shrine stands out with the beautiful greenery, astonishing you especially in the summer.
+BASIC5000_4031_hint2|特に夏は圧巻で、美しい緑の木々で朱色の社殿が映える。|美しい木々|The vermillion color of the shrine stands out with the beautiful trees with green colors, astonishing you especially in the summer.
+BASIC5000_4037_hint1|硬貨の種類を限定することの利点として、重量のある硬貨の場合、貯金箱ごと重量を量ることで、ある程度の貯金金額を知る事ができる。|硬貨の中でも重量のあるもの|There is an advantage to specify the types of coins. By measuring the money box in which there are coins that are heavy, we can determine how much money is inside.
+BASIC5000_4037_hint2|硬貨の種類を限定することの利点として、重量のある硬貨の場合、貯金箱ごと重量を量ることで、ある程度の貯金金額を知る事ができる。|硬貨は一般的に重量がある|There is an advantage to specify the types of coins. By measuring the money box in which there are heavy coins, we can determine how much money is inside.
+BASIC5000_4059_hint1|手押し相撲ではアメリカ代表に惜敗、羽根突きでは日本代表がアメリカ代表が掟破りといえるスマッシュを繰り出すなどで苦しめられ完敗、しりとりは日本代表の完勝。|アメリカ代表が掟破り|In Teoshi Zumo (Pushing-hands sumo), the Japan team was defeated by team America. In Hane-tsuki (Japanese traditional tennis), the Japan team was also defeated completely by team America because the team went against the rules. Japanese players could not do anything about smashes that the American players hit. However, the Japan team won perfectly in Shiritori.
+BASIC5000_4059_hint2|手押し相撲ではアメリカ代表に惜敗、羽根突きでは日本代表がアメリカ代表が掟破りといえるスマッシュを繰り出すなどで苦しめられ完敗、しりとりは日本代表の完勝。|アメリカ代表が繰り出す|In Teoshi Zumo (Pushing-hands sumo), the Japan team was defeated by team America. In Hane-tsuki (Japanese traditional tennis), the Japan team was also defeated completely by team America because the Japanese players could not do anything about the smashes that the American players hit, even though their smashes were against the rules. However, the Japan team won perfectly in Shiritori.
+BASIC5000_4080_hint1|傲慢な性格で、プロになれる実力があると自負している。|傲慢な性格によってプロになる|With his arrogant personality, he is proud to be a professional.
+BASIC5000_4080_hint2|傲慢な性格で、プロになれる実力があると自負している。|傲慢な性格ゆえに自負している|As he is arrogant, he is proud to be a professional.
+BASIC5000_4134_hint1|現在でも、家の中央から見て鬼門にあたる方角には、玄関、便所、風呂、台所などの水を扱う場所を置くことを忌む風習が、全国に強く残っている。|〜などの水|Even now, many people do not want to locate the front door and domestic wet area, including the restroom, bathroom, and kitchen, at the unlucky direction from the center of the home across the nation.
+BASIC5000_4134_hint2|現在でも、家の中央から見て鬼門にあたる方角には、玄関、便所、風呂、台所などの水を扱う場所を置くことを忌む風習が、全国に強く残っている。|〜などの場所|Even now, many people do not want to locate the domestic wet area, including the front door, restroom, bathroom, and kitchen, at the unlucky direction from the center of the home across the nation.
+BASIC5000_4176_hint1|クリスマスの夜、ディナーと椅子に縛りつけたマルクを前にしたバルテルは、意識の混濁しているマルクを他所に満足げに愛を語る。|ディナーと椅子|On Christmas night, Barthel faced Marc, who was tied to a chair with Dinner. Even though Marc was not fully conscious, Barthel ignored his condition and talked about love.
+BASIC5000_4176_hint2|クリスマスの夜、ディナーと椅子に縛りつけたマルクを前にしたバルテルは、意識の混濁しているマルクを他所に満足げに愛を語る。|ディナーとマルク|On Christmas night, Barthel faced Dinner and Marc, who was tied to a chair. Even though Marc was not fully conscious, Barthel ignored Marc's condition and talked about love.
+BASIC5000_4187_hint1|鋭い嗅覚、物怖じしない性格、人を喰ったような掴みどころのない雰囲気、そして、鋭い洞察力を備える。|人を喰ったような掴みどころ|He is not shy and has a keen sense of smell. His character is elusive like an insolent attitude; however his perspective is great.
+BASIC5000_4187_hint2|鋭い嗅覚、物怖じしない性格、人を喰ったような掴みどころのない雰囲気、そして、鋭い洞察力を備える。|人を喰ったような雰囲気|He is not shy and has a keen sense of smell. He has an insolent attitude and his character is elusive; however, his perspective is great.
+BASIC5000_4245_hint1|家屋の敷地内には、土地神を祭る祠を建て、穀物や、香辛料を育てる家庭菜園もある。|穀物や香辛料|A small shrine, sacred for the guardian god of the land, was built within the premises of the house, and there is a vegetable garden to grow grains and spices.
+BASIC5000_4245_hint2|家屋の敷地内には、土地神を祭る祠を建て、穀物や、香辛料を育てる家庭菜園もある。|穀物や家庭菜園|A small shrine, sacred for the guardian god of the land, was built within the premises of the house, and there are grains and a vegetable garden to grow spices.
+BASIC5000_4262_hint1|地層を構成する粒子間の間隙の大小で規定される。|地層を構成する粒子|It is regulated by the size of space between particles composing stratum.
+BASIC5000_4262_hint2|地層を構成する粒子間の間隙の大小で規定される。|地層を構成する間隙|It is regulated by the size of the space composing stratum between particles.
+BASIC5000_4279_hint1|結局、次男と次女は恋仲になり、長男、長女もまたくっついて、ハッピーエンドとなる。|また(再度/again)|At last, the second oldest son and the second oldest daughter love each other, and the oldest son and the oldest daughter love each other again, which brings a happy ending.
+BASIC5000_4279_hint2|結局、次男と次女は恋仲になり、長男、長女もまたくっついて、ハッピーエンドとなる。|また(also)|At last, the second oldest son and the second oldest daughter love each other, and also the oldest son and the oldest daughter love each other, which brings a happy ending.
+BASIC5000_4285_hint1|これは、釈迦が悟りを求めて修行中に悪魔の誘惑を受けたが、これを退けたという伝説に由来するもので、煩悩に屈しない、堅固な決意を示す。|悟りを求めて修行中|This was derived from the legend of Buddha. When he was practicing asceticism to obtain enlightenment, he resisted the temptation of a demon. That is why this represents a strong determination that does not give in to temptation.
+BASIC5000_4285_hint2|これは、釈迦が悟りを求めて修行中に悪魔の誘惑を受けたが、これを退けたという伝説に由来するもので、煩悩に屈しない、堅固な決意を示す。|悟りを求めて誘惑を受けた|This was derived from the legend of Buddha. When he was tempted by a demon to obtain enlightenment while practicing asceticism, he resisted the temptation of the demon. That is why this represents a strong determination that does not give in to temptation.
+BASIC5000_4285_hint3|これは、釈迦が悟りを求めて修行中に悪魔の誘惑を受けたが、これを退けたという伝説に由来するもので、煩悩に屈しない、堅固な決意を示す。|悟りを求めて退けた|This was derived from the legend of Buddha. When he was tempted by a demon while practicing asceticism, he resisted the temptation of the demon to obtain enlightenment. That is why this represents a strong determination that does not give in to temptation.
+BASIC5000_4292_hint1|ただし、中国茶に近い製法をとる、釜炒り茶もある。|釜炒り茶の中でも中国茶に近いもの|However, some types of kamairi-cha (roasted green tea with an iron pot) have a similar production method to that of Chinese tea.
+BASIC5000_4292_hint2|ただし、中国茶に近い製法をとる、釜炒り茶もある。|釜炒り茶は一般的に中国茶に近い|However, kamairi-cha (roasted green tea with an iron pot) has a similar production method to that of Chinese tea.
+BASIC5000_4295_hint1|もともと旧家で無知な人形のように育てられたが、忍によってその境遇から解放された後、いろいろと余計なことを覚えて現在の性格ができあがった。|旧家で無知|Originally, he was raised like an old family and an ignorant doll; however, after being released from such environment by Shinobu, he learned unnecessary things; that is why his personality has been created like this.
+BASIC5000_4295_hint2|もともと旧家で無知な人形のように育てられたが、忍によってその境遇から解放された後、いろいろと余計なことを覚えて現在の性格ができあがった。|旧家で育てられた|Originally, he was raised like an ignorant doll in an old family; however, after being released from such environment by Shinobu, he learned unnecessary things; that is why his personality has been created like this.
+BASIC5000_4307_hint1|その溝に取り付けるアタッチメントを使う事で、木製の壁面だけでなく、ファブリック、ガラスやアクリルなどの壁面を作ることも可能。|その溝|By using an attachment to be fitted into the groove, we can make fabric, glass, or an acryl wall as well as a wooden wall.
+BASIC5000_4307_hint2|その溝に取り付けるアタッチメントを使う事で、木製の壁面だけでなく、ファブリック、ガラスやアクリルなどの壁面を作ることも可能。|そのアタッチメント|By using that attachment to be fitted into a groove, we can make fabric, glass, or an acryl wall as well as a wooden wall.
+BASIC5000_4330_hint1|オープンカーならではの駐車時の安全、盗難対策として、ハンドルロックと、グローブボックスの鍵が備わる。|[ハンドルロックとグローブボックス]の鍵|As a countermeasure, there are keys for a handle lock and glovebox to ensure safety while parking and to prevent theft, which are necessary for convertible cars.
+BASIC5000_4330_hint2|オープンカーならではの駐車時の安全、盗難対策として、ハンドルロックと、グローブボックスの鍵が備わる。|[ハンドルロック]と[グローブボックスの鍵]|As a countermeasure, there are a handle lock and a key for the glovebox to ensure safety while parking and to prevent theft, which are necessary for convertible cars.
+BASIC5000_4340_hint1|聡明且つ冷静沈着だが、事件解決の為には単身危険に飛び込むような無茶もする。|「単身危険」1語|He is smart and calm; however, in order to cope with incidents, he takes unreasonable actions, such as diving into a "single danger".
+BASIC5000_4340_hint2|聡明且つ冷静沈着だが、事件解決の為には単身危険に飛び込むような無茶もする。|単身で乗り込む|He is smart and calm; however, in order to cope with incidents, he takes unreasonable actions, such as taking a risk alone.
+BASIC5000_4342_hint1|近代における自由の概念は、他者の意志にではなく、自己自身の意志に従って行為することとして捉えることができる。|近代における自由|The concept of freedom nowadays can be considered as taking actions by following one's own will, not others' will.
+BASIC5000_4342_hint2|近代における自由の概念は、他者の意志にではなく、自己自身の意志に従って行為することとして捉えることができる。|近代における概念|The recent concept of freedom can be considered as taking actions by following one's own will, not others' will.
+BASIC5000_4385_hint1|公案により見性しようとする臨済宗は、疑問を抱きつつ坐禅することにより、悟りに至る看話禅の立場を採る。|疑問を抱きつつ坐禅する|In the Rinzai Sect, people grasp their nature through a paradoxical question for meditation. By practicing meditation while questioning themselves, they will obtain enlightenment.
+BASIC5000_4385_hint2|公案により見性しようとする臨済宗は、疑問を抱きつつ坐禅することにより、悟りに至る看話禅の立場を採る。|疑問を抱きつつ立場をとる|In the Rinzai Sect, people grasp their nature through a paradoxical question for meditation. By practicing meditation, they will obtain enlightenment while questioning themselves.
+BASIC5000_4392_hint1|ディーゼルエンジンの容積あたりの低出力を過給、ターボチャージャー、ターボコンパウンドなどで補うと、点火装置の単純さが相殺され、高コストになる。|低出力を過給|By supercharging the low-power output per unit of diesel engine and compensating with a turbocharger or turbo compound, the simplicity of the ignition device can be offset, resulting in an increase in costs.
+BASIC5000_4392_hint2|ディーゼルエンジンの容積あたりの低出力を過給、ターボチャージャー、ターボコンパウンドなどで補うと、点火装置の単純さが相殺され、高コストになる。|低出力を補う|By compensating the low-power output per unit of diesel engine with a supercharge, turbocharger, or turbo compound, the simplicity of the ignition device can be offset, resulting in an increase in costs.
+BASIC5000_4515_hint1|他人に鼻毛が出ていますよ、とはなかなか言えないものですね。|他人に鼻毛が|I cannot say to someone, "My nose hair is sticking out."
+BASIC5000_4515_hint2|他人に鼻毛が出ていますよ、とはなかなか言えないものですね。|他人に言えない|I cannot say to someone, "Your nose hair is sticking out."
+BASIC5000_4547_hint1|かっぱ寿司は、リーズナブルな回転寿司のチェーン店だ。|リーズナブルな回転寿司|Kappa sushi is a franchise store of reasonable sushi-go-round.
+BASIC5000_4547_hint2|かっぱ寿司は、リーズナブルな回転寿司のチェーン店だ。|リーズナブルなチェーン店|Kappa sushi is a reasonable sushi-go-round franchise store.
+BASIC5000_4570_hint1|恋人とテーマパークにデートに行くと別れるという、都市伝説がある。|恋人とテーマパーク|There is an urban myth that if you have a date at "a boyfriend and amusement park," you will break up.
+BASIC5000_4570_hint2|恋人とテーマパークにデートに行くと別れるという、都市伝説がある。|恋人と行く|There is an urban myth that if you have a date with your boyfriend at an amusement park, you will break up.
+BASIC5000_4609_hint1|今年の夏、海に行ったら色白の私もすっかり色黒に。|海に行ったら色白|When going to the sea, I was fair-skinned, but I became completely dark-skinned this summer.
+BASIC5000_4609_hint2|今年の夏、海に行ったら色白の私もすっかり色黒に。|海に行ったら色黒に|I was fair-skinned, but I became completely dark-skinned because I went to the sea this summer.
+BASIC5000_4700_hint1|この前の旅行で買った漆器に、料理を盛って、写真に収める。|この前の=先日の|To serve food, I use the lacquerware that I bought during the trip last time and take a picture.
+BASIC5000_4700_hint2|この前の旅行で買った漆器に、料理を盛って、写真に収める。|この前の＝これの１つ前の|To serve food, I use the lacquerware that I bought during the trip before last and take a picture.
+BASIC5000_4763_hint1|少し標高が低まったこの土地に住み着いた人々の子孫だ。|標高が低まった土地|They are descendants of people who lived on this low-altitude land.
+BASIC5000_4763_hint2|少し標高が低まったこの土地に住み着いた人々の子孫だ。|標高が低まった人々|They are descendants of low-altitude people who lived on this land.
+BASIC5000_4816_hint1|彼女の頬をつたう涙の行く先を見ていた。|彼女の頬|I was watching her cheeks, where her tears were running down.
+BASIC5000_4816_hint2|彼女の頬をつたう涙の行く先を見ていた。|彼女の涙|I was watching the direction of her tears running down her cheeks.
+BASIC5000_4833_hint1|官吏の画一的な仕事には、ほとほと困っている。|官吏が画一的|I get tired of jobs of uniform government officials.
+BASIC5000_4833_hint2|官吏の画一的な仕事には、ほとほと困っている。|官吏の仕事|I get tired of government officials' uniform jobs.
+BASIC5000_4852_hint1|この表現は、日本語にはない、英語の比喩表現として、私は大変気に入っています。|日本語にはない英語|I love this English metaphor because Japanese does not have this English expression.
+BASIC5000_4852_hint2|この表現は、日本語にはない、英語の比喩表現として、私は大変気に入っています。|日本語にはない比喩表現|I love this English metaphor because Japanese does not have the same expression.
+BASIC5000_4972_hint1|とうとう子供たちは山の真ん中に、りんごの木が植わっている、小さな果樹園を見つけました。|山の真ん中にりんごの木がある|Finally, the children found a small fruit garden, where an apple tree was planted in the middle of the mountain.
+BASIC5000_4972_hint2|とうとう子供たちは山の真ん中に、りんごの木が植わっている、小さな果樹園を見つけました。|山の真ん中に果樹園がある|Finally, the children found a small fruit garden in the middle of the mountain, where an apple tree was planted.
+BASIC5000_4973_hint1|タバコで煙った空気を部屋から出して、新鮮な空気を入れてちょうだい。|タバコで煙る|Remove the smoke caused by cigarettes from the room and take fresh air into there.
+BASIC5000_4973_hint2|タバコで煙った空気を部屋から出して、新鮮な空気を入れてちょうだい。|タバコで出す|With a cigarette, remove the smoke from the room and take fresh air into there.
+ONOMATOPEE300_108_hint1|一週間ぶりに帰って来た飼い主に気付いた犬が、ぶるんぶるんと尻尾を振りながら出迎えた。|一週間ぶりに帰って来た|The dog realized that his owner had come back home for the first time in a week, so he greeted him with a wagging tail.
+ONOMATOPEE300_108_hint2|一週間ぶりに帰って来た飼い主に気付いた犬が、ぶるんぶるんと尻尾を振りながら出迎えた。|一週間ぶりに気づいた|The dog realized for the first time in a week that his owner had come back home, so he greeted him by wagging his tail.
+ONOMATOPEE300_219_hint1|昨日は一日中辛い立ち仕事だったので、今朝は足と顔がぱんぱんに浮腫んでいて、恥ずかしかった。|一日中辛い|Yesterday, it was hard all day long to keep standing. My face and legs were swelling this morning, so I was ashamed of that.
+ONOMATOPEE300_219_hint2|昨日は一日中辛い立ち仕事だったので、今朝は足と顔がぱんぱんに浮腫んでいて、恥ずかしかった。|一日中立ち仕事|Yesterday, I kept standing all day long and it was hard. My face and legs were swelling this morning, so I was ashamed of that.
+PRECEDENT130_002_hint1|堺市は、本件交付方針の条件に合致していなかったと認定すべきである。|堺市は合致していなかった|We should recognize that Sakai City did not meet the conditions of this grant policy.
+PRECEDENT130_002_hint2|堺市は、本件交付方針の条件に合致していなかったと認定すべきである。|堺市は認定すべき|Sakai city should recognize that it did not meet the conditions of this grant policy.
+REPEAT500_set1_001_hint1|また、東寺のように、五大明王と呼ばれる、主要な明王の中央に配されることも多い。|東寺のように呼ばれる|Also, it can be located at the center of major Myoo statues, which are called the Five Great Myoos like at Toji.
+REPEAT500_set1_001_hint2|また、東寺のように、五大明王と呼ばれる、主要な明王の中央に配されることも多い。|東寺のように配される|Also, as you can see at Toji, it can be located at the center of major Myoo statues called the Five Great Myoos.
+TRAVEL1000_0319_hint1|いちばん近い地下鉄の駅はどこでしょうか。|いちばん近い地下鉄|Where is the station of the nearest subway?
+TRAVEL1000_0319_hint2|いちばん近い地下鉄の駅はどこでしょうか。|いちばん近い駅|Where is the nearest subway station?
+TRAVEL1000_0345_hint1|食後に大人は2錠、子どもは1錠です。|食後に大人|Two tablets for adults after meals, and one tablet for children.
+TRAVEL1000_0345_hint2|食後に大人は2錠、子どもは1錠です。|食後に2錠|After meals, two tablets for adults and one tablet for children.
+BASIC5000_0031_hint1|語の古い意味が、現在の基本的な意味であるとは限らない。|語が古い|Old words are not always the basic meanings of present words.
+BASIC5000_0031_hint2|語の古い意味が、現在の基本的な意味であるとは限らない。|意味が古い|Old meanings of words are not always the basic meanings of present words.
+BASIC5000_0286_hint1|鳥は、その鳴き声で分かるように、話し方によって人間は評価される。|鳥は分かる|As birds can understand their birdsong, people evaluate how to speak.
+BASIC5000_0286_hint2|鳥は、その鳴き声で分かるように、話し方によって人間は評価される。|鳥は評価される|As recognizing birds' notes, people evaluate birds by birdsong.
+BASIC5000_0781_hint1|深夜テレビで、カウボーイの映画を見ましたか。|「深夜テレビ」1語|Did you see the midnight TV show, a cowboy movie?
+BASIC5000_0781_hint2|深夜テレビで、カウボーイの映画を見ましたか。|深夜に見た|Did you see the TV show, a cowboy movie, at midnight?
+BASIC5000_0820_hint1|ドレスが塗りたてのペンキがついてるよ。|ドレスが塗りたて|You got paint that Dress has just painted.
+BASIC5000_0820_hint2|ドレスが塗りたてのペンキがついてるよ。|塗りたてのペンキ|Your dress got paint that has been just painted.
+BASIC5000_1442_hint1|ランダーが必要な修正を施したことは、注意する価値がある。|ランダーが必要|It is worth paying attention to doing corrections in which a lander is required.
+BASIC5000_1442_hint2|ランダーが必要な修正を施したことは、注意する価値がある。|ランダーが施した|It is worth paying attention to Lander to do required corrections.
+BASIC5000_1529_hint1|行商人は、大きな包みを背負って運んだ。|包みを運んだ|A merchant carried a huge bag on his back.
+BASIC5000_1529_hint2|行商人は、大きな包みを背負って運んだ。|別の何かを運んだ|A merchant carried something while carrying a huge bag on his back.
+BASIC5000_1897_hint1|事実の科学者に対する関係は、言葉の詩人に対する関係と等しい。|事実の科学者、言葉の詩人|The relationship of scientists to facts is equivalent to the relationship of poets to words.
+BASIC5000_1897_hint2|事実の科学者に対する関係は、言葉の詩人に対する関係と等しい。|「事実」と「科学者」との関係|The relationship between facts and scientists is equivalent to the relationship between words and poets.
+BASIC5000_1961_hint1|マフィアは、隠れみのに合法的な事業を展開している。|隠れみのに合法的|The gang is developing its business legally as a front.
+BASIC5000_1961_hint2|マフィアは、隠れみのに合法的な事業を展開している。|隠れみのに展開している|The gang is developing its legal business as a front.
+BASIC5000_1972_hint1|マンパワーは、世界で一番大きな人材派遣会社です。|一番大きな|Manpower is the biggest temp agency in the world.
+BASIC5000_1972_hint2|マンパワーは、世界で一番大きな人材派遣会社です。|世界で一番＆大きな会社|Manpower is top in the world and the biggest temp agency.
+BASIC5000_2096_hint1|今世紀には注目すべき知識の増加があった。|注目すべき知識|In this century, there was an increase in remarkable knowledge.
+BASIC5000_2096_hint2|今世紀には注目すべき知識の増加があった。|注目すべき増加|In this century, there was a remarkable increase in knowledge.
+BASIC5000_2369_hint1|エルモア・ジェイムズのコピーじゃないぜ。|エルモア(は)…ではない|Elmore is not a copy of James.
+BASIC5000_2369_hint2|エルモア・ジェイムズのコピーじゃないぜ。|エルモア・ジェイムズ(フルネーム）|It is not a copy of Elmore James.
+BASIC5000_2576_hint1|ロイは、ガールフレンドから電話があるとうれしそうだ。|「電話がある」と言って嬉しそう|Roy seemed happy, saying "My girlfriend will make a phone call to me."
+BASIC5000_2576_hint2|ロイは、ガールフレンドから電話があるとうれしそうだ。|電話があった場合は嬉しそう|Roy seems happy when his girlfriend makes a phone call to him.
+BASIC5000_2593_hint1|ゲイツ社長、広告収入をユーザーに還元する意向表明。|「意向表明」１語|President Gates stated that they would be returning their advertising income to users.
+BASIC5000_2593_hint2|ゲイツ社長、広告収入をユーザーに還元する意向表明。|意向を表明した|President Gates expressed that their advertising income will be returned to users.
+BASIC5000_2608_hint1|万事は、その結果、いかんにかかっている。|その結果、こうなる|As a result, all things will be depend on their conditions.
+BASIC5000_2608_hint2|万事は、その結果、いかんにかかっている。|「その結果いかん」|All things will result in that condition.
+BASIC5000_2609_hint1|義務は、許可通知の後、発行料を支払った後、も、続く点に留意。|許可通知の後で支払った後|Remember that your duties will continue even after you pay issue fees after you have received permission.
+BASIC5000_2609_hint2|義務は、許可通知の後、発行料を支払った後、も、続く点に留意。|許可通知の後 and/or 支払った後|Remember that your duties will continue after receiving permission and/or after paying issue fees.
+BASIC5000_2751_hint1|朝の天気予報には、おそくなって、雷雨があるとのことだった。|天気予報には遅い|The morning weather forecast has announced lately that there will be thunderstorms.
+BASIC5000_2751_hint2|朝の天気予報には、おそくなって、雷雨があるとのことだった。|今日遅くに雷雨|The morning weather forecast said that there will be a thunderstorm later today.
+BASIC5000_2778_hint1|人をもっているもので判断してはいけない。|人を持っている|You should not judge by something obtained by people.
+BASIC5000_2778_hint2|人をもっているもので判断してはいけない。|人を判断する|You should not judge people by their belongings.
+BASIC5000_2860_hint1|電算機は、経営者に、詳しい最新の情報を与えてくれる。|経営者に与える|Electronic computers give managers detailed and the latest information.
+BASIC5000_2860_hint2|電算機は、経営者に、詳しい最新の情報を与えてくれる。|経営者に詳しい|Electronic computers give the latest information that is detailed to managers.
+BASIC5000_2861_hint1|実質、成長と名目成長率の差は、物価上昇を意味する。|実質的に意味する|The gap between growth and the nominal growth rate means a price hike practically.
+BASIC5000_2861_hint2|実質、成長と名目成長率の差は、物価上昇を意味する。|実質成長 vs 名目成長|The gap between real growth and the nominal growth rate means a price hike.
+BASIC5000_2874_hint1|クレジットカードは、役に立つが危険だ。|クレジットカードは危険|Credit cards are dangerous even though they are useful.
+BASIC5000_2874_hint2|クレジットカードは、役に立つが危険だ。|クレジットカードは役に立つ（他の何かが危険）|Credit cards are useful, but others are dangerous.
+BASIC5000_2973_hint1|光が絵の中には描かれていない、大きな窓から射し込んでいます。|光が描かれていない|Light that is not depicted on the picture is coming through a big window.
+BASIC5000_2973_hint2|光が絵の中には描かれていない、大きな窓から射し込んでいます。|窓が描かれていない|Light is coming through the big window that is not depicted in the picture.
+BASIC5000_3039_hint1|したがって、豊饒圏論は広く、多様な構造を同じ枠組みに包摂するものである。|豊饒圏論は広いので|As a result, the theory of enriched category is wide, so it subsumes various structures into the same framework.
+BASIC5000_3039_hint2|したがって、豊饒圏論は広く、多様な構造を同じ枠組みに包摂するものである。|広く多様な構造|As a result, the theory of enriched category subsumes wide and various structures into the same framework.
+BASIC5000_3219_hint1|だが引き換えに、使用者の心を蝕み、あらゆる全てを喰い散らかすべき獲物としか見る事が出来なくなる。|獲物があらゆる全てを食い散らかす|However, in contrast, we cannot help thinking that it is prey destroying users' minds and eating out all things.
+BASIC5000_3219_hint2|だが引き換えに、使用者の心を蝕み、あらゆる全てを喰い散らかすべき獲物としか見る事が出来なくなる。|あらゆる全てが獲物|However, in contrast, destroying users' minds, we cannot help thinking that all things are prey that should be eaten out.
+BASIC5000_3360_hint1|理性的な知識のエリアは、追跡する価値があるそれらのトピックと避けられるべきである、それらの中に叙述される。|追跡する価値があるトピックゆえに避けられるべき|The area of reasonable knowledge is a valuable topic to pursue, so it can be predicted in them that are to be avoided.
+BASIC5000_3360_hint2|理性的な知識のエリアは、追跡する価値があるそれらのトピックと避けられるべきである、それらの中に叙述される。|追跡する価値があるトピック＆避けられるべきそれら|The area of reasonable knowledge is predicted in them that is a valuable topic to pursue and should be avoided.
+BASIC5000_3371_hint1|また、竜騎士の力は変身後も残留するらしく、ドラゴンの眼と呼ぶ能力によって、他人の心を見透かすことができる。|ドラゴンの眼&呼ぶ能力|In addition, the power of dragon nights seems to remain after transformation, which allows to read other people's minds by the dragon's eyes and calling abilities.
+BASIC5000_3371_hint2|また、竜騎士の力は変身後も残留するらしく、ドラゴンの眼と呼ぶ能力によって、他人の心を見透かすことができる。|能力＝「ドラゴンの眼」|In addition, the power of dragon nights seems to remain after transformation, which allows to read other people's minds by abilities called the dragon's eyes.
+BASIC5000_3431_hint1|明くる日、学校にはじめが来ていないことに気づいた私は、冠のことであろうと察して冠がいるであろう冠の母親が入院する病院に向かう。|察している|The next day, I found that Hajime had not come to school, and Kanmuri guessed that it was due to himself, and I went to the hospital where Kanmuri's mother was hospitalized.
+BASIC5000_3431_hint2|明くる日、学校にはじめが来ていないことに気づいた私は、冠のことであろうと察して冠がいるであろう冠の母親が入院する病院に向かう。|察して向かう|The next day, I found that Hajime had not come to school and thought that it was due to Kanmuri, so I went to the hospital where Kanmuri's mother was hospitalized since Kanmuri was supposed to be there.
+BASIC5000_3696_hint1|ただし浅頭筋などにみられる皮筋や、舌や咽頭、横隔膜のような内臓筋の一部も骨格を支えているわけではないが、骨格筋組織である横紋筋である。|内臓筋の一部も骨格を支えている|However, the skeletal frame is not supported by some of the visceral muscles, including dermal muscles, such as facial muscles, the tongue, the pharynx, and the diaphragm, but they are striated muscles that are skeletal muscular tissue.
+BASIC5000_3696_hint2|ただし浅頭筋などにみられる皮筋や、舌や咽頭、横隔膜のような内臓筋の一部も骨格を支えているわけではないが、骨格筋組織である横紋筋である。|内臓筋の一部も横紋筋である|However, some of the visceral muscles, including dermal muscles, such as facial muscles, the tongue, the pharynx, and the diaphragm, are striated muscles that are skeletal muscular tissue, even though not supporting the skeletal frame.
+BASIC5000_3720_hint1|異様ない出立ちと銃弾を遮断する巨大な鉄の傘を携える。|異様な出で立ち&巨大な傘|It has an unusual appearance and a big iron umbrella, allowing it to block censure.
+BASIC5000_3720_hint2|異様ない出立ちと銃弾を遮断する巨大な鉄の傘を携える。|異様な出で立ち&銃弾|It has a big iron umbrella, allowing it to block its unusual appearance and censure.
+BASIC5000_3722_hint1|洗礼前教育においては、ルター以降、十戒、使徒信条、主の祈りを重視し、それぞれが教義、神の正しい崇拝、使徒としての生活を教えるものと考える。|それぞれの教義|After the reformation by Martin Luther, it was thought that pre-baptism education should focus on the Ten Commandments, Apostles' Creed, and Lord's Prayer and that each doctrine, the right worship of God, and the lives of apostles should be taught.
+BASIC5000_3722_hint2|洗礼前教育においては、ルター以降、十戒、使徒信条、主の祈りを重視し、それぞれが教義、神の正しい崇拝、使徒としての生活を教えるものと考える。|それぞれが教える|After the reformation by Martin Luther, it was thought that pre-baptism education should focus on the Ten Commandments, Apostles' Creed, and Lord's Prayer and that each should teach doctrines, the right worship of God, and the lives of apostles.
+BASIC5000_3812_hint1|直接観察できない事象については言及、仮構を控える行動主義のような立場もある。|言及はするが仮構は控える|We mention the phenomena that we cannot observe; however, we have the standpoint, which is like behaviorism, to refrain from imaging.
+BASIC5000_3812_hint2|直接観察できない事象については言及、仮構を控える行動主義のような立場もある。|言及と仮構を控える|We refrain from mentioning or imaging the phenomena that we cannot observe directly, which is like a standpoint of behaviorism.
+BASIC5000_3833_hint1|したがって豊饒圏論は広く、多様な構造を同じ枠組みに包摂するものである。|豊饒圏論は広いので|As a result, the theory of enriched category is wide, so it subsumes various structures into the same framework.
+BASIC5000_3833_hint2|したがって豊饒圏論は広く、多様な構造を同じ枠組みに包摂するものである。|広く多様な構造|As a result, the theory of enriched category subsumes wide and various structures into the same framework.
+BASIC5000_3877_hint1|だが心と裏腹に、倫に対していつも近づく度に突き放すという愛情表現しか出来ない。|いつも近づく|Contrary to my heart, however, whenever Rin approaches me, I cannot help rejecting her.
+BASIC5000_3877_hint2|だが心と裏腹に、倫に対していつも近づく度に突き放すという愛情表現しか出来ない。|突き放す|Contrary to my heart, however, I always reject Rin when she approaches me.
+BASIC5000_3961_hint1|恵まれない出自であるにも関わらず、生まれたことに感謝する心の清い人物である。|感謝する心|Despite poor origin, the person is pure and feels thankful for being born.
+BASIC5000_3961_hint2|恵まれない出自であるにも関わらず、生まれたことに感謝する心の清い人物である。|感謝する人物|Despite poor origin, the person has a pure heart and is thankful for being born.
+BASIC5000_4094_hint1|演目の主題である小言をこぼしながら読経する老人は、以下のように演じられる。|演目の主題＝小言|The main theme of the program is complaints of an old person while reciting a sutra, and the character is played as follows.
+BASIC5000_4094_hint2|演目の主題である小言をこぼしながら読経する老人は、以下のように演じられる。|演目の主題＝老人|The main theme of the program is an old person complaining while reciting a sutra, and the character is played as follows.
+BASIC5000_4110_hint1|両親からの評判は良かったが、花之宮家の本家から来た従姉は、遊星が花之宮家に相応しいかどうか査定するため、弓道で的に当てることを認める条件とした。|的に当てることを認める|Although he had a good reputation with her parents, the cousin, who is from the head family of the Hananomiya family, accepted to hit the target using Japanese archery, aiming to judge if Yusei is suitable for the Hananomiya family.
+BASIC5000_4110_hint2|両親からの評判は良かったが、花之宮家の本家から来た従姉は、遊星が花之宮家に相応しいかどうか査定するため、弓道で的に当てることを認める条件とした。|的に当てることを条件とする|Although he had a good reputation with her parents, the cousin, who is from the head family of the Hananomiya family, offered a condition for Yusei to hit the target using Japanese archery, aiming to judge if he is suitable for the Hananomiya family.
+BASIC5000_4229_hint1|谷間を縫うようにレイアウトされたシリーズお馴染みのオリジナルサーキットコース。|レイアウトされたシリーズ|It is a familiar original circuit series in which threading roads are arranged through valleys.
+BASIC5000_4229_hint2|谷間を縫うようにレイアウトされたシリーズお馴染みのオリジナルサーキットコース。|レイアウトされたコース|It is a familiar series of original circuit courses in which threading roads are arranged through valleys.
+BASIC5000_4291_hint1|二酸化炭素を含む弱酸性の雨水が台地を作っている石灰岩中に浸透し、炭酸カルシウムを溶かした地下水となる。|雨水が台地を作っている|Penetrating limestone of the plateau created by weak acid rain containing CO2 makes ground water in which calcium carbonate is dissolved.
+BASIC5000_4291_hint2|二酸化炭素を含む弱酸性の雨水が台地を作っている石灰岩中に浸透し、炭酸カルシウムを溶かした地下水となる。|雨水が浸透する|Weak acid rain containing CO2 penetrates limestone, creating the plateau, which makes ground water in which calcium carbonate is dissolved.
+BASIC5000_4297_hint1|通常は、受信する信号レベルが低下したときに、映像信号に重畳した熱雑音が、目立つことで発生する。|信号レベルが低下した時に発生する|It usually happens when the level to receive signals drops and thermal noise is significantly piled up on image signals.
+BASIC5000_4297_hint2|通常は、受信する信号レベルが低下したときに、映像信号に重畳した熱雑音が、目立つことで発生する。|信号レベルが低下した時に重畳する|It usually happens because thermal noise is significantly piled up on image signals when the level to receive signals drops.
+BASIC5000_4425_hint1|外見は幼い少女で、人間になるために必要な魔力を胸に抱いた宝珠に蓄えている。|人間になるために必要|Her appearance is that of a little girl, storing the magical power required for becoming a human in an orb on her chest.
+BASIC5000_4425_hint2|外見は幼い少女で、人間になるために必要な魔力を胸に抱いた宝珠に蓄えている。|人間になるために蓄えている|To become a human, the girl who looks like a little girl stores magical power in an orb on her chest.
+BASIC5000_4430_hint1|竹紙の薄く、また空気を通さず、唾で容易に張り付くといった性質を利用したものであり、淡竹や、黒竹のものが使用されている。|竹紙が薄い|Using the characteristics of thin bamboo films that do not allow air to pass through and can be stuck with saliva, henon and black bamboos are used.
+BASIC5000_4430_hint2|竹紙の薄く、また空気を通さず、唾で容易に張り付くといった性質を利用したものであり、淡竹や、黒竹のものが使用されている。|竹紙の性質＝3つ（薄い、空気を通さない、張り付く）|Using the characteristics of bamboo films, namely thinness, imperviousness, and stickiness with saliva, henon and black bamboos are used.
+BASIC5000_4587_hint1|国境の長いトンネルを抜けると、雪国であった。|国境が長い|After passing through the tunnel of a long border, I arrived in snowy country.
+BASIC5000_4587_hint2|国境の長いトンネルを抜けると、雪国であった。|トンネルが長い|After passing through the long tunnel of the border, I arrived in snowy country.
+BASIC5000_4596_hint1|この町と隣町に境には、速い流れの運河があります。|速い流れ|There is a canal with fast-moving currents on the border of this town and the neighboring town.
+BASIC5000_4596_hint2|この町と隣町に境には、速い流れの運河があります。|「流れの運河」|There is a fast-moving canal on the border of this town and the neighboring town.
+BASIC5000_4666_hint1|隣の客の店員に対する態度を見て苦る。|隣の客|Observing the customer next to me, I was disgusted by their attitude toward the salesperson.
+BASIC5000_4666_hint2|隣の客の店員に対する態度を見て苦る。|隣の態度|Seeing the attitude displayed next to me toward the salesperson, I became disgusted with the person.
+BASIC5000_4727_hint1|１０分ほど蒸らしたタオルを肩に当てると、血行が良くなる。|10分蒸らす|Steaming a towel for about 10 minutes to apply on the shoulders helps to circulate blood.
+BASIC5000_4727_hint2|１０分ほど蒸らしたタオルを肩に当てると、血行が良くなる。|10分当てる|Applying a steamed towel for about 10 minutes to the shoulders helps to circulate blood.
+BASIC5000_4760_hint1|この河原の道沿いには、一里塚がいくつか残っている。|この河原|This shore has some milestones along the road.
+BASIC5000_4760_hint2|この河原の道沿いには、一里塚がいくつか残っている。|この道沿い|This road has some milestones along the shore.
+BASIC5000_4939_hint1|暖かい天候の時は、発汗作用が体温の調節をする上で、役立つ。|発汗作用が調節する|When there is warm temperature, useful perspiration helps to control body temperature.
+BASIC5000_4939_hint2|暖かい天候の時は、発汗作用が体温の調節をする上で、役立つ。|発汗作用が役立つ|When there is warm temperature, perspiration is useful for body temperature control.
+LOANWORD128_059_hint1|キェルツェは、ポーランドの中心部に位置する都市である。|ポーランドの中心部|The location of the city of Kielce is the center of Poland.
+LOANWORD128_059_hint2|キェルツェは、ポーランドの中心部に位置する都市である。|ポーランドの都市|Kielce is a city in Poland, which is located at the center of Poland.
+LOANWORD128_109_hint1|フュージョン電子音楽などを融合させた音楽のジャンルである。|「フュージョン電子音楽」1語|It is a music genre integrating electronic fusion music, etc.
+LOANWORD128_109_hint2|フュージョン電子音楽などを融合させた音楽のジャンルである。|フュージョン＝ジャンル|Fusion is a genre of music integrating electronic music, etc.
+ONOMATOPEE300_068_hint1|水が垂れないように濡らしたぞうきんを、ギュッギュッと絞った。|垂れないように濡らした|I moistened a dust cloth, but to avoid dripping water, I squeezed it.
+ONOMATOPEE300_068_hint2|水が垂れないように濡らしたぞうきんを、ギュッギュッと絞った。|垂れないように絞った|To prevent water from dripping, I squeezed the wet dust cloth.
+ONOMATOPEE300_147_hint1|世界遺産に指定された、景勝地の美しい泉にいってみたら、きれいな水がこんこんと湧き出ている評判通りの場所だった。|景勝地が美しい|I went to a spring designated as a beautiful world heritage scenic spot, where clear water was flowing out, living up to its high reputation.
+ONOMATOPEE300_147_hint2|世界遺産に指定された、景勝地の美しい泉にいってみたら、きれいな水がこんこんと湧き出ている評判通りの場所だった。|景勝地の泉|I went to a beautiful scenic spring that is designated as a world heritage site, where clear water was flowing out, living up to its high reputation.
+ONOMATOPEE300_165_hint1|母が熱したフライパンの上にそーっと卵を落とすと、じゅーっと大きな音をたてて、あっという間に焼けた。|母が熱した|When dropping an egg carefully in a pan heated by my mother, the egg was immediately finished with a shhhht sound.
+ONOMATOPEE300_165_hint2|母が熱したフライパンの上にそーっと卵を落とすと、じゅーっと大きな音をたてて、あっという間に焼けた。|熱したフライパン|When my mother dropped an egg carefully in a heated pan, the egg was immediately finished with a shhhht sound.
+ONOMATOPEE300_167_hint1|犬が知らない人に警戒して、キャンキャンと吠えた。|犬が吠えた|Being on the alert to strangers, a dog barked loudly.
+ONOMATOPEE300_167_hint2|犬が知らない人に警戒して、キャンキャンと吠えた。|犬が知らない人|Being on the alert to people the dog didn't know, the dog barked loudly.
+ONOMATOPEE300_181_hint1|何度も注意するが、態度を改めない後輩に、ガツンと言ってやる。|何度も注意するが改めない|I will scold severely a young colleague who does not improve his attitude even though I have cautioned him repeatedly.
+ONOMATOPEE300_181_hint2|何度も注意するが、態度を改めない後輩に、ガツンと言ってやる。|何度も注意するが言ってやる|I will caution repeatedly and scold severely a young colleague who does not improve his attitude.
+ONOMATOPEE300_206_hint1|食べ物がぼとりと落ちてしまい、周囲は沈黙に包まれたが、落とした本人は、冷静に落としたものを拾った。|冷静に拾った|When food dropped, there was silence, but the person who dropped the food picked it up calmly.
+ONOMATOPEE300_206_hint2|食べ物がぼとりと落ちてしまい、周囲は沈黙に包まれたが、落とした本人は、冷静に落としたものを拾った。|冷静に落とした|When food dropped, there was silence, but the person who dropped the food calmly picked it up.
+REPEAT500_set1_029_hint1|現在の滑走を目的とした、スキーブーツは、硬いプラスチックシェルと、柔らかいインナーブーツからなる。|現在の滑走|The ski boots are designed for the current gliding and consist of hard plastic shells and soft inner boots.
+REPEAT500_set1_029_hint2|現在の滑走を目的とした、スキーブーツは、硬いプラスチックシェルと、柔らかいインナーブーツからなる。|現在のスキーブーツ|The current ski boots are designed for gliding and consist of hard plastic shells and soft inner boots.
+REPEAT500_set1_064_hint1|この菌による病気は、灰色かび病と名づけられているものが多い。|複数ある菌のうちの1つ|The disease caused by this bacteria is mainly called gray mold.
+REPEAT500_set1_064_hint2|この菌による病気は、灰色かび病と名づけられているものが多い。|複数ある病気のうちの1つ|This disease caused by bacteria is mainly called gray mold.
+REPEAT500_set1_092_hint1|紫外線は、表面エネルギーの、小さいポリマーを接着する際の、前処理に利用される。|表面エネルギーの前処理|As an advance process for surface energy, ultraviolet is used for adhering small polymers.
+REPEAT500_set1_092_hint2|紫外線は、表面エネルギーの、小さいポリマーを接着する際の、前処理に利用される。|表面エネルギーが小さい|As an advance process, ultraviolet is used for adhering small surface energy polymers.
+TRAVEL1000_0021_hint1|もう1度、これを合計していただけますか。|一度＝いったん|For now, would you please add this too?
+TRAVEL1000_0021_hint2|もう1度、これを合計していただけますか。|もう一度＝再度|Would you please add this again?
+TRAVEL1000_0128_hint1|このクルーズの料金は、いくらですか。|複数あるクルーズのうちの1つ|How much is this cruise?
+TRAVEL1000_0128_hint2|このクルーズの料金は、いくらですか。|複数あるアクティビティのうちの1つ|How much is the cruise?
+TRAVEL1000_0156_hint1|相手がそれで生活している人であれば、チップも忘れないでください。|それで(then)|If he works for a living, then please do not forget to give a tip.
+TRAVEL1000_0156_hint2|相手がそれで生活している人であれば、チップも忘れないでください。|それで(by it)|If he makes a living by it, please do not forget to give a tip.
+TRAVEL1000_0196_hint1|アメリカ人の、同僚の母が、昨日、亡くなりました。|同僚がアメリカ人|My American colleague's mother passed away yesterday.
+TRAVEL1000_0196_hint2|アメリカ人の、同僚の母が、昨日、亡くなりました。|母がアメリカ人|My colleague's mother, who was American, passed away yesterday.
+TRAVEL1000_0196_hint3|アメリカ人の、同僚の母が、昨日、亡くなりました。|アメリカ人の同僚である母|My mother, who is a colleague of the American, passed away yesterday.
+TRAVEL1000_0460_hint1|翌日配達で送るのがいいでしょう。|「翌日配達」1語|Delivering it tomorrow will be good.
+TRAVEL1000_0460_hint2|翌日配達で送るのがいいでしょう。|翌日送る|It will be good to deliver it tomorrow.
+TRAVEL1000_0540_hint1|科学の必要な科目を、履修してはどうですか。|科学の必要な|How about taking a subject required for science?
+TRAVEL1000_0540_hint2|科学の必要な科目を、履修してはどうですか。|科学の科目|How about taking a required science subject?
+TRAVEL1000_0568_hint1|運転手が、この出口を出たところまで、迎えにきます。|運転手が出た|I will pick you up when the driver passes through this exit.
+TRAVEL1000_0568_hint2|運転手が、この出口を出たところまで、迎えにきます。|運転手が迎えにくる|A driver will pick up you when you pass through this exit.
+TRAVEL1000_0790_hint1|この関税の申告書に、記入してください。|この関税|Please fill out the application form for this tariff.
+TRAVEL1000_0790_hint2|この関税の申告書に、記入してください。|この申告書|Please fill out this tariff application form.
+TRAVEL1000_0800_hint1|今日、課せられたペーパーが、よく分かりませんでした。|今日課せられた|I could not understand the assignment that I was given today.
+TRAVEL1000_0800_hint2|今日、課せられたペーパーが、よく分かりませんでした。|今日わからなかった|Today, I could not understand the assignment that I was given.
+TRAVEL1000_0813_hint1|第3の保険は人身事故で、あなたと同乗者の治療費を、カバーします。|第3の保険は人身事故|The third insurance is for accidents with injury, covering the medical treatment cost for you and the passengers.
+TRAVEL1000_0813_hint2|第3の保険は人身事故で、あなたと同乗者の治療費を、カバーします。|第3の保険はカバーする|The third insurance covers medical treatment costs for you and the passengers when an accident with injury happens.
+UT-PARAPHRASE-sent161-phrase2_hint1|親思いで、さらに広い視野を持ってほしいというのは、無理な注文なのだろうか。|さらに広い|Is it a tall order if I want my children to love us (parents) and have a broader view?
+UT-PARAPHRASE-sent161-phrase2_hint2|親思いで、さらに広い視野を持ってほしいというのは、無理な注文なのだろうか。|さらに持ってほしい|Is it a tall order if I want my children to love us (parents) and have more of a broad view?
+A001_hint1|白い屋根の大きい家。|白い屋根|A big house with a white roof.
+A001_hint2|白い屋根の大きい家。|白い家|A white house with a big roof.
+A002_hint1|警官は走って逃げる泥棒を追いかけた。|警官が走った|The policeman ran and chased the thief who escaped from there.
+A002_hint2|警官は走って逃げる泥棒を追いかけた。|泥棒が走った|The policeman chased the thief running away from there.
+A003_hint1|夫が病気になったという理由で解雇された。|夫が病気になった|I was laid off because my husband became sick.
+A003_hint2|夫が病気になったという理由で解雇された。|夫が解雇された|My husband was laid off because he became sick.
+A004_hint1|僕らはそんな言葉の壁を乗り越える。|そんな言葉|We can overcome the barrier of language.
+A004_hint2|僕らはそんな言葉の壁を乗り越える。|そんな壁|We can overcome such language barrier.
+A005_hint1|祖父は喜んで眠る孫を抱き上げた。|喜んで眠る|The grandfather took his grandchild, who was sleeping gladly, into his arms.
+A005_hint2|祖父は喜んで眠る孫を抱き上げた。|喜んで抱き上げた|The grandfather gladly took his sleeping grandchild into his arms.
+A006_hint1|祖父は焦って眠る孫を抱き上げた。|焦って眠る|The grandfather took his grandchild, who was sleeping hastily, into his arms.
+A006_hint2|祖父は焦って眠る孫を抱き上げた。|焦って抱き上げた|The grandfather hastily took his sleeping grandchild into his arms.
+A007_hint1|シャッターが停電のため動かない。|シャッターが停電した|The power of the shutter went off, so it cannot move.
+A007_hint2|シャッターが停電のため動かない。|シャッターが動かない|The shutter cannot move due to power failure.
+A008_hint1|美女と野獣のディズニーが送る最新作。|「美女と野獣」のディズニー|The latest work by Disney, which created "Beauty and the Beast."
+A008_hint2|美女と野獣のディズニーが送る最新作。|「美女」と「野獣のディズニー」|The latest work by "Beauty" and "Disney of the Beast."
+A009_hint1|お金のない学生さん向けのプランです。|学生さんの中でもお金のない人|This is a plan for students who have not enough money.
+A009_hint2|お金のない学生さん向けのプランです。|学生さんは一般的にお金がない|This is a plan for students without money.
+A010_hint1|爪に塗った樹脂を紫外線で固める女性に人気のサービスです。|紫外線で固める女性|This is a popular service for women who have hardened resin applied on their nails with ultraviolet rays.
+A010_hint2|爪に塗った樹脂を紫外線で固める女性に人気のサービスです。|紫外線で固めるサービス|This is a popular service in which hardened resin is applied on women's nails with ultraviolet rays.
+A010_hint3|爪に塗った樹脂を紫外線で固める女性に人気のサービスです。|爪に塗ったサービス|This service of applying resin on nails is popular among women who harden with ultraviolet rays.
+A011_hint1|出産の経験のない男性にはわかりにくい。|男性の中でも出産の経験のない人|It is difficult for men, who have not delivered children.
+A011_hint2|出産の経験のない男性にはわかりにくい。|男性は一般的に出産の経験がない|It is difficult for men because they do not deliver children.
+A012_hint1|新しい看板を買う必要があると思う。|新しいものが必要|I think that we need a new sign to buy.
+A012_hint2|新しい看板を買う必要があると思う。|看板が必要|I think that we need a sign to buy newly.
+A012_hint3|新しい看板を買う必要があると思う。|買うことが必要|I think that we need to buy a new sign.
+A013_hint1|奈良に旅行に行った。|（大阪ではなく）奈良|I traveled to Nara.
+A013_hint2|奈良に旅行に行った。|（出張ではなく）旅行|I went to Nara for traveling.
+A014_hint1|トゥルッリと呼ばれる白い壁にとんがり屋根をのせた家々が建ち並ぶ 。|トゥルッリ＝壁|There are many houses having a pointed roof and a white wall called Trulli.
+A014_hint2|トゥルッリと呼ばれる白い壁にとんがり屋根をのせた家々が建ち並ぶ 。|トゥルッリ＝家|There are many houses called Trulli having a pointed roof and a white wall.
